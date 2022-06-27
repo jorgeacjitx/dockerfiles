@@ -281,10 +281,10 @@
         },
         "selenium": {
             "hashes": [
-                "sha256:866b6dd6c459210662bff922ee7c33162d21920fbf6811e8e5a52be3866a687f"
+                "sha256:f67402b8f973aaa98d9c55b8f9aa63532009cd1859b2222a8b9800354942d8bc"
             ],
             "index": "pypi",
-            "version": "==4.1.5"
+            "version": "==4.3.0"
         },
         "sniffio": {
             "hashes": [
