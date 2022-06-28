@@ -994,11 +994,11 @@
         },
         "vertica-python": {
             "hashes": [
-                "sha256:3d4020d6bd5c682df5966e7709db4a0846a5c488fa93b648c928c513577b29ea",
-                "sha256:9bdafa3fc1937a1c77dd03bf682b8a02bae927fc9c54758f910f6c3dcded99ea"
+                "sha256:5dc708379966ad14cd0262b9d9778c059cee34ec52bd714aec238b87995a7036",
+                "sha256:74b6561f654f657ab47e5b2b456572455887524802694a46856dd88eacb75b17"
             ],
             "index": "pypi",
-            "version": "==1.0.5"
+            "version": "==1.1.0"
         },
         "xlrd": {
             "hashes": [
