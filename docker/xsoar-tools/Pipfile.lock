@@ -406,11 +406,11 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:43b1263effa3e2dc8cff0d32007a65c20a32614eb53fb2d4283e58c0df607563",
-                "sha256:edb5e5ef9bb3a687002169bd1109e694d432f9e0eda578753fba7a9244566547"
+                "sha256:900e11d7f060ddec296fd5fcc01f9b91b6daec0a0574cf8eadd2397cff8910d6",
+                "sha256:b7a6c4b26404b39802d1392458024bf21e79ef0ad7943c56831cd903394460f6"
             ],
             "index": "pypi",
-            "version": "==3.1.7"
+            "version": "==3.2.0"
         },
         "demisto-sdk": {
             "hashes": [
