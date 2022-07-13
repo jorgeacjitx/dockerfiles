@@ -267,14 +267,6 @@
             "markers": "python_version >= '3.7'",
             "version": "==9.2.0"
         },
-        "pybrowsers": {
-            "hashes": [
-                "sha256:2ddecc42b1d892db3d167df15744fcc7c13b9856acc46d014a2824e3981c8492",
-                "sha256:c728bd899585821248271d6e6a5721699471406e054c30aac4d907d1f205c0d7"
-            ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
-            "version": "==0.5.0"
-        },
         "pycparser": {
             "hashes": [
                 "sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9",
@@ -312,14 +304,6 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.20.0"
-        },
-        "pyxdg": {
-            "hashes": [
-                "sha256:3267bb3074e934df202af2ee0868575484108581e6f3cb006af1da35395e88b4",
-                "sha256:bdaf595999a0178ecea4052b7f4195569c1ff4d344567bccdc12dfdf02d545ab"
-            ],
-            "markers": "sys_platform == 'linux'",
-            "version": "==0.28"
         },
         "requests": {
             "hashes": [
@@ -381,11 +365,11 @@
         },
         "webdriver-manager": {
             "hashes": [
-                "sha256:e2734eeae9132b3afb20d16048ba504a4c3ff0fbbc6644133ba066ab405938ba",
-                "sha256:e4fc5a7e2b404bb75a30ebfada65dfc612918196e88ccda84c168fcec4c5f376"
+                "sha256:821e0737415044d7ad2fc4c1b25fbe0c0de602c62c94c5a25e4a096cf10f792f",
+                "sha256:9e115be96f04f4a912431766e7675679527f62867a3c73f4738901ea89e2a1e9"
             ],
             "index": "pypi",
-            "version": "==3.8.0"
+            "version": "==3.8.1"
         },
         "wsproto": {
             "hashes": [
