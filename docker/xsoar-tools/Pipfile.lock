@@ -428,11 +428,11 @@
         },
         "demisto-sdk": {
             "hashes": [
-                "sha256:d8923285cd4625def66367927ba3bab282bddbf3651f0ef87b510d003813564b",
-                "sha256:ef16443af5a98344b1387168449e5214c993fbabfc7217c48e9e978c98f8372f"
+                "sha256:73525bf851f96a643c0496def90069ed5666c66e9cec0762ce4c2a8200838e04",
+                "sha256:d6cf33560306675422eaf50b942ca7e66c6b1fee4e034341bd2cb77ec707bb3c"
             ],
             "index": "pypi",
-            "version": "==1.6.9"
+            "version": "==1.7.0"
         },
         "dictdiffer": {
             "hashes": [
