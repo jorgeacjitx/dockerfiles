@@ -113,7 +113,7 @@
                 "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
                 "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==2.1.0"
         },
         "cryptography": {
@@ -148,7 +148,7 @@
                 "sha256:70813c1135087a248a4d38cc0e1a0181ffab2188141a93eaf567940c3957ff06",
                 "sha256:8ddd78563b633ca55346c8cd41ec0af27d3c79931828beffb46ce70a379e7442"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==0.13.0"
         },
         "idna": {
@@ -267,14 +267,6 @@
             "markers": "python_version >= '3.7'",
             "version": "==9.2.0"
         },
-        "pybrowsers": {
-            "hashes": [
-                "sha256:2ddecc42b1d892db3d167df15744fcc7c13b9856acc46d014a2824e3981c8492",
-                "sha256:c728bd899585821248271d6e6a5721699471406e054c30aac4d907d1f205c0d7"
-            ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
-            "version": "==0.5.0"
-        },
         "pycparser": {
             "hashes": [
                 "sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9",
@@ -312,14 +304,6 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.20.0"
-        },
-        "pyxdg": {
-            "hashes": [
-                "sha256:3267bb3074e934df202af2ee0868575484108581e6f3cb006af1da35395e88b4",
-                "sha256:bdaf595999a0178ecea4052b7f4195569c1ff4d344567bccdc12dfdf02d545ab"
-            ],
-            "markers": "sys_platform == 'linux'",
-            "version": "==0.28"
         },
         "requests": {
             "hashes": [
@@ -381,11 +365,11 @@
         },
         "webdriver-manager": {
             "hashes": [
-                "sha256:e2734eeae9132b3afb20d16048ba504a4c3ff0fbbc6644133ba066ab405938ba",
-                "sha256:e4fc5a7e2b404bb75a30ebfada65dfc612918196e88ccda84c168fcec4c5f376"
+                "sha256:5282e957fe59bc5cd96eae58b2ec4cc6f0de649fa832e5ab40d6284f6ee7830e",
+                "sha256:df23786e34d4c1f8c4490e1922618c2fe5a58a2bf6444b94c6664fc3fefba2e4"
             ],
             "index": "pypi",
-            "version": "==3.8.0"
+            "version": "==3.8.2"
         },
         "wsproto": {
             "hashes": [
