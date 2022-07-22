@@ -21,7 +21,7 @@
                 "sha256:84c85a9078b11105f04f3036a9482ae10e4621616db313fe045dd24743a0820d",
                 "sha256:fe86415d55e84719d75f8b69414f6438ac3547d2078ab91b67e779ef69378412"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2022.6.15"
         },
         "charset-normalizer": {
@@ -29,7 +29,7 @@
                 "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
                 "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.1.0"
         },
         "idna": {
@@ -42,11 +42,10 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:12f7102489de4198cc24d62771298e69e3228c5bc0e490561eaef35517975e2b",
-                "sha256:536425277b2a5643e63bfbad96f9abfe83f288649f125368d35bebd194ee66a6"
+                "sha256:7b997fc10057533ae90aa7025a47aef9f3edcbac36bab2a4225ad3765853a881"
             ],
             "index": "pypi",
-            "version": "==1.9.2"
+            "version": "==1.9.3"
         },
         "requests": {
             "hashes": [
