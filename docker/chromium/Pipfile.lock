@@ -113,7 +113,7 @@
                 "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
                 "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==2.1.0"
         },
         "cryptography": {
@@ -148,7 +148,7 @@
                 "sha256:70813c1135087a248a4d38cc0e1a0181ffab2188141a93eaf567940c3957ff06",
                 "sha256:8ddd78563b633ca55346c8cd41ec0af27d3c79931828beffb46ce70a379e7442"
             ],
-            "markers": "python_full_version >= '3.6.0'",
+            "markers": "python_version >= '3.6'",
             "version": "==0.13.0"
         },
         "idna": {
@@ -269,11 +269,11 @@
         },
         "pybrowsers": {
             "hashes": [
-                "sha256:2ddecc42b1d892db3d167df15744fcc7c13b9856acc46d014a2824e3981c8492",
-                "sha256:c728bd899585821248271d6e6a5721699471406e054c30aac4d907d1f205c0d7"
+                "sha256:4f2fe7e3afbaa54af7c170a9fa2c04c1108baf29ed5988d483bf816a04e109cc",
+                "sha256:58326ca65a5053676309443244df4fd1e1d62af05e8265602214894efb31c073"
             ],
             "markers": "python_version >= '3.7' and python_version < '4'",
-            "version": "==0.5.0"
+            "version": "==0.5.1"
         },
         "pycparser": {
             "hashes": [
@@ -291,11 +291,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:04ce42cd05707881fedbca3164744511805fe8c30618ae4cfb2b940e3368d5ad",
-                "sha256:7d80914ebb4cf93348d270f27a7a5eb741b912be63927da65c4c6b292c2f6b10"
+                "sha256:69ddfd724ddfe07010ef3a56c95bf1218553ec09e283636ecf0f072ec119599a",
+                "sha256:90d12f0e57e7a41359fc801fce1e87f6f81764d28a89a7f30d8795b3ff67a006"
             ],
             "index": "pypi",
-            "version": "==1.28.4"
+            "version": "==2.8.0"
         },
         "pysocks": {
             "hashes": [
@@ -366,6 +366,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.9.2"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
+            ],
+            "markers": "python_version < '3.10'",
+            "version": "==4.3.0"
         },
         "urllib3": {
             "extras": [
