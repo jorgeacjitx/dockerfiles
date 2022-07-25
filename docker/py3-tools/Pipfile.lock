@@ -104,18 +104,18 @@
         },
         "algorithmia": {
             "hashes": [
-                "sha256:a903a2152e369aef4fa0b985b00f12202254b379cc4d7d9433f9a56ea4bd793f",
-                "sha256:d843ac956a7ad6c7ac7cc6dd64889595903bd7080b3621e293590c2cffe5291d"
+                "sha256:7c706cd6f4e8c244c8cc07ef659b9dc5859f5249a5c386db58d87c2160b501e1",
+                "sha256:9fe461f2052df7aeac7010e69e73a25a7099406292ac2abd3689a1fd1fbd1c0b"
             ],
             "index": "pypi",
-            "version": "==1.17.0"
+            "version": "==2.0.4"
         },
         "algorithmia-adk": {
             "hashes": [
-                "sha256:0811087590ba899458a9ef4cc7730a4186357730c79f5e3c71ab92c98404feb2",
-                "sha256:649fe74652bd9f5faababb1d70df63b331d08b16e751378623538d9a4722be6f"
+                "sha256:109ac5ee4afd527e06afbdb56bb07374045b8c309a0e0e798a7bfffc086dc0ed",
+                "sha256:73693ff4313212bd17bd59662a7a49c5bedb8d13a76f4aa3a2164d3305808a7c"
             ],
-            "version": "==1.2.3.1"
+            "version": "==1.2.3.3"
         },
         "algorithmia-api-client": {
             "hashes": [
@@ -190,7 +190,7 @@
                 "sha256:2857e29ff0d34db842cd7ca3230549d1a697f96ee6d3fb071cfa6c7393832597",
                 "sha256:6881edbebdb17b39b4eaaa821b438bf6eddffb4468cf344f09f89def34a8b1df"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_full_version >= '3.5.0'",
             "version": "==2.0.12"
         },
         "circleci": {
@@ -386,7 +386,7 @@
                 "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff",
                 "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_full_version >= '3.5.0'",
             "version": "==3.3"
         },
         "imap-tools": {
