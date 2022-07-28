@@ -1279,11 +1279,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:65ee4ae9abdeca8fe3a9e351256345e3c4db2a6a68accd5d6a141cfff6192751",
-                "sha256:d284eaf60b10fee45b24688423b5f7ba2d194f8c2dadf8df76cd58c1a9d08b52"
+                "sha256:479ee0e266ac2ac3e28c94b0697ceea2be0ea4aa1a03194930900786217bbcd8",
+                "sha256:e2eb3576aeee931ed636286ff2942f6d9ae75e0219030493479e744a4aa34653"
             ],
             "index": "pypi",
-            "version": "==4.20.1"
+            "version": "==4.21.0"
         },
         "typer": {
             "hashes": [
