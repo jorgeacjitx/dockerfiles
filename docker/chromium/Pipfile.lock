@@ -42,11 +42,11 @@
         },
         "charset-normalizer": {
             "hashes": [
-                "sha256:5189b6f22b01957427f35b6a08d9a0bc45b46d3788ef5a92e978433c7a35f8a5",
-                "sha256:575e708016ff3a5e3681541cb9d79312c416835686d054a23accb873b254f413"
+                "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
+                "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2.1.0"
+            "version": "==2.1.1"
         },
         "h11": {
             "hashes": [
@@ -180,11 +180,11 @@
         },
         "pypdf2": {
             "hashes": [
-                "sha256:04ce42cd05707881fedbca3164744511805fe8c30618ae4cfb2b940e3368d5ad",
-                "sha256:7d80914ebb4cf93348d270f27a7a5eb741b912be63927da65c4c6b292c2f6b10"
+                "sha256:0217ff7ab1909777234c87f2be931d09ec82107a7f3aaa7e116e3a60cc3aaa06",
+                "sha256:de6c595ca64e370a23da2b325d06cd5258083fa96d7439eac0d381632dcf04db"
             ],
             "index": "pypi",
-            "version": "==1.28.4"
+            "version": "==2.10.3"
         },
         "pysocks": {
             "hashes": [
@@ -255,6 +255,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.9.2"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
+            ],
+            "markers": "python_version < '3.10'",
+            "version": "==4.3.0"
         },
         "urllib3": {
             "extras": [
