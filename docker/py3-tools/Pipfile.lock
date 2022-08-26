@@ -104,11 +104,11 @@
         },
         "algorithmia": {
             "hashes": [
-                "sha256:a903a2152e369aef4fa0b985b00f12202254b379cc4d7d9433f9a56ea4bd793f",
-                "sha256:d843ac956a7ad6c7ac7cc6dd64889595903bd7080b3621e293590c2cffe5291d"
+                "sha256:8432093b17f4a6d469c5c71eabea3977313006091e4d1c5e70351d6ad6be270c",
+                "sha256:f293fdda8712de157a0d212f7f077198d419a39d31d7331153ad754f007231a8"
             ],
             "index": "pypi",
-            "version": "==1.17.0"
+            "version": "==2.0.5"
         },
         "algorithmia-adk": {
             "hashes": [
