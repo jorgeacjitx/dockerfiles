@@ -26,11 +26,11 @@
         },
         "markdownify": {
             "hashes": [
-                "sha256:d613f95b2649d8b83c4c4cb2e6c24cea8c7df4e07d418f92fa25ad0ddbb045e0",
-                "sha256:ef396bb8d0ffb3efacc08b86ab4aa6d36b234e782aea9f6b7f980798eaa64e33"
+                "sha256:b8f99a909f76b41aadfb748f2c3ebe237f41dfb261744645af6712c1ed2bd758",
+                "sha256:cd39d9e79cba896de242e36b6cb1121b2d7e943f416e501679fd7945b7cbf1ba"
             ],
             "index": "pypi",
-            "version": "==0.11.2"
+            "version": "==0.11.5"
         },
         "pyasn1": {
             "hashes": [
