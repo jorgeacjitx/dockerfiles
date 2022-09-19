@@ -112,11 +112,11 @@
         },
         "joblib": {
             "hashes": [
-                "sha256:4158fcecd13733f8be669be0683b96ebdbbd38d23559f54dca7205aea1bf1e35",
-                "sha256:f21f109b3c7ff9d95f8387f752d0d9c34a02aa2f7060c2135f465da0e5160ff6"
+                "sha256:091138ed78f800342968c523bdde947e7a305b8594b910a0fea2ab83c3c6d385",
+                "sha256:e1cee4a79e4af22881164f218d4311f60074197fb707e082e803b61f6d137018"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.1.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==1.2.0"
         },
         "mpmath": {
             "hashes": [
@@ -551,11 +551,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:3beb6e1b65528649bec777be6032c242765e1a7b1ff0fb562c6bcd574ec8c96f",
-                "sha256:4b3ac02ff76b9a8db02bb74e6de9a29c7e01aa3cd126d66b19205561644c6947"
+                "sha256:8f06d0dbdb95717fc4a48c61d876f25a35ca67e95851581c681fe4e6d1cf9f94",
+                "sha256:b9834aa01979778c16130ad260e41d314f4c3a65930bdc40b1232833c988280b"
             ],
             "index": "pypi",
-            "version": "==4.22.0"
+            "version": "==4.22.1"
         },
         "typing-extensions": {
             "hashes": [
