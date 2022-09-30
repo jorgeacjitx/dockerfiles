@@ -142,18 +142,18 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:d141f18d0ec63bc89e0f3d24f269b4f2e18377f1c5e39c56152d4cfd8e6c6ff7",
-                "sha256:da672d9133852dbb36ce9cd156dffcb28a2dc098af1731791ab614969a34f9f5"
+                "sha256:a29214908224da132ecc025f4da266f4124c26d22205002bfd02aed5743a2e47",
+                "sha256:b10d9ecaba3f0ed844192828d2c2b26bfa1dfd2b40ccccc25507575f28097e32"
             ],
-            "version": "==1.24.78"
+            "version": "==1.24.83"
         },
         "botocore": {
             "hashes": [
-                "sha256:b45ae0680699ce100386ac1478e03fd3f29ef22d6bfb5a19169ffee6e67c5293",
-                "sha256:fc2ffdafce66c051c69ae6ac50599d6da11e84371c704ae9b7cf9e2742a4dc77"
+                "sha256:9a1fb823c68aef1227f2d63af856a485e09f43792f257a821b53ea86481c66bd",
+                "sha256:c57f74322cf672405f0ec7ee8fda7d80d323a9c664a90926c11313ca3bfbca91"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.27.78"
+            "version": "==1.27.83"
         },
         "cffi": {
             "hashes": [
@@ -528,11 +528,11 @@
                 "optional"
             ],
             "hashes": [
-                "sha256:1bac09ed465bf9a0a120afce495b328969af7f032fe38cacbadace3dc1e49709",
-                "sha256:d28a661a7fde37c1763e594be19899a51e76ce7c480172c9cf22e217a72731c3"
+                "sha256:7ce35e45215b2e3839af61ea4cca09f51dd635ab320f5b6b4e2b95656a19c60c",
+                "sha256:ba6545d4db33ef15c7eb5bef85f14c44fa697cbbc263e09451b1e4e88e4da660"
             ],
             "index": "pypi",
-            "version": "==3.18.3"
+            "version": "==3.18.4"
         },
         "sqlalchemy": {
             "hashes": [
