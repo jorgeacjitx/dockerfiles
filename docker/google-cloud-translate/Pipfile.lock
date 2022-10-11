@@ -45,11 +45,11 @@
                 "grpc"
             ],
             "hashes": [
-                "sha256:92d17123cfe399b5ef7e026c63babf978d8475e1ac877919eb7933e25dea2273",
-                "sha256:e16c15a11789bc5a3457afb2818a3540a03f341e6e710d7f9bbf6cde2ef4a7c8"
+                "sha256:10c06f7739fe57781f87523375e8e1a3a4674bf6392cd6131a3222182b971320",
+                "sha256:34f24bd1d5f72a8c4519773d99ca6bf080a6c4e041b4e9f024fe230191dda62e"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.10.1"
+            "version": "==2.10.2"
         },
         "google-auth": {
             "hashes": [
@@ -69,11 +69,11 @@
         },
         "google-cloud-translate": {
             "hashes": [
-                "sha256:51a72a05c6805412fdacb791cc1da1e4cb0bc5d427a0ac81b3fd7baa14aeb956",
-                "sha256:bdacf65009b791196265da20fcec440d8bed62707cb4aec91fee0fed98134a97"
+                "sha256:729b52172001c99459ec3afddec9153de0af528874fcf3000a9ddd98e1107ee7",
+                "sha256:e1099ef7b288d7e8e4ea9c47be50129459890fdaa590c754ef848de74b7cd9ec"
             ],
             "index": "pypi",
-            "version": "==3.8.3"
+            "version": "==3.8.4"
         },
         "googleapis-common-protos": {
             "hashes": [
