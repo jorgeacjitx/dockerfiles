@@ -166,7 +166,7 @@
                 "sha256:f17e562de9edf691a42ddb1eb4a5541c20dd3f9e65b09ded2beb0799c0cf29bb",
                 "sha256:fdffbfb6832cd0b300995a2b08b8f6fa9f6e856d562800fea9182316d99c4e8e"
             ],
-            "markers": "python_version < '3.10' and platform_machine != 'aarch64' and platform_machine != 'arm64'",
+            "markers": "python_version < '3.11' and python_version >= '3.7'",
             "version": "==1.21.6"
         },
         "onnx": {
@@ -547,11 +547,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:651921da422e0d1fddbd67764c7e682a5c4e8106214ac37f5dd2ab97f608a17b",
-                "sha256:88c9de47280b6d7cdaa3ede6dd915609b5afb89f41ba86c186ca1797536a8fa2"
+                "sha256:51bf21775296945bb665f8669c44cbacc1c61a9964c3d8aa2030fd30f940427b",
+                "sha256:f91085a31634efee509bcb0588d95b57713dcb990e516ffbe7c9a1813be14552"
             ],
             "index": "pypi",
-            "version": "==4.23.0"
+            "version": "==4.23.1"
         },
         "typing-extensions": {
             "hashes": [
