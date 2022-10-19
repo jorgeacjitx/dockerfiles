@@ -378,7 +378,7 @@
                 "sha256:06d2aad0ac723e35b1cb47885d3e5c45e956a53bc1b209a9fc5369007fe46676",
                 "sha256:5766780452bd5ec8ba133f8bf287dc92713e3868ddd83aee4faab9fc3e303dc3"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_version < '4'",
             "version": "==3.2.3"
         },
         "idna": {
@@ -458,11 +458,11 @@
         },
         "minio": {
             "hashes": [
-                "sha256:a711f3e6961ef083c161cee79f42a01d73369fc9111ccf76a74fb8d58b41d00a",
-                "sha256:f87ef2adf55e9beeb2216b41bbe1c8837fd1276e6bac2921f785f74e1b4e4a06"
+                "sha256:63111fedf67e07c5a4c8948b3a4e5ecbb372b522ea562bfa4d484194ec6a2b99",
+                "sha256:c8ab8646f93d47b9aefbf4db76aaba5ac54c87454b922a3d6c1423aed050aad5"
             ],
             "index": "pypi",
-            "version": "==7.1.9"
+            "version": "==7.1.12"
         },
         "multidict": {
             "hashes": [
@@ -987,7 +987,7 @@
                 "sha256:3fa96cf423e6987997fc326ae8df396db2a8b7c667747d47ddd8ecba91f4a74e",
                 "sha256:b930dd878d5a8afb066a637fbb35144fe7901e3b209d1cd4f524bd0e9deee997"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
             "version": "==1.26.12"
         },
         "validate-email": {
