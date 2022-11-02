@@ -1455,11 +1455,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:51bf21775296945bb665f8669c44cbacc1c61a9964c3d8aa2030fd30f940427b",
-                "sha256:f91085a31634efee509bcb0588d95b57713dcb990e516ffbe7c9a1813be14552"
+                "sha256:486f353a8e594002e48be0e2aba723d96eda839e63bfe274702a4b5eda85559b",
+                "sha256:b7ab50039ef9bf817eff14ab974f306fd20a72350bdc9df3a858fd009419322e"
             ],
             "index": "pypi",
-            "version": "==4.23.1"
+            "version": "==4.24.0"
         },
         "typer": {
             "hashes": [
