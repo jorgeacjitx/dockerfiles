@@ -18,17 +18,19 @@
     "default": {
         "ansible": {
             "hashes": [
-                "sha256:6f2f762fca6cff0401a6d2119b8ba3b2f111ea1a93fd203c86df09bc75570f18"
+                "sha256:2e9f519441780595ab173ac017210efc94c58633c9bc6e55917745d214cb4332",
+                "sha256:73144e7e602715fab623005d2e71e503dddae86185e061fed861b2449c5618ea"
             ],
             "index": "pypi",
-            "version": "==5.9.0"
+            "version": "==7.0.0"
         },
         "ansible-core": {
             "hashes": [
-                "sha256:feb1df61738cfc1f5e893b42a2ec1a7de32977d67e86707b45eb63d0c5c3c236"
+                "sha256:b191d397c81514bd1922e00e16f0b8ec52e0bcb19b61cc4500085f5f92470cf2",
+                "sha256:fa48b481cb623bf79bb903f223097681a0c13e1b4ec7e78e7dd7d858d36a34b2"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==2.12.10"
+            "markers": "python_version >= '3.9'",
+            "version": "==2.14.0"
         },
         "ansible-runner": {
             "hashes": [
@@ -440,18 +442,18 @@
         },
         "resolvelib": {
             "hashes": [
-                "sha256:8113ae3ed6d33c6be0bcbf03ffeb06c0995c099b7b8aaa5ddf2e9b3b3df4e915",
-                "sha256:9b9b80d5c60e4c2a8b7fbf0712c3449dc01d74e215632e5199850c9eca687628"
+                "sha256:c6ea56732e9fb6fca1b2acc2ccc68a0b6b8c566d8f3e78e0443310ede61dbd37",
+                "sha256:d9b7907f055c3b3a2cfc56c914ffd940122915826ff5fb5b1de0c99778f4de98"
             ],
-            "version": "==0.5.4"
+            "version": "==0.8.1"
         },
         "setuptools": {
             "hashes": [
-                "sha256:d0b9a8433464d5800cbe05094acf5c6d52a91bfac9b52bcfc4d41382be5d5d31",
-                "sha256:e197a19aa8ec9722928f2206f8de752def0e4c9fc6953527360d1c36d94ddb2f"
+                "sha256:6211d2f5eddad8757bd0484923ca7c0a6302ebc4ab32ea5e94357176e0ca0840",
+                "sha256:d1eebf881c6114e51df1664bc2c9133d022f78d12d5f4f665b9191f084e2862d"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==65.5.1"
+            "version": "==65.6.0"
         },
         "six": {
             "hashes": [
