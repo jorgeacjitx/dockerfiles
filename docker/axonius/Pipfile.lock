@@ -25,10 +25,10 @@
         },
         "axonius-api-client": {
             "hashes": [
-                "sha256:579ec4e12c533bb5df1103e90831418c0dc26d553a9aca96c39d5d2a38f70aa3"
+                "sha256:f19893bc4b6fdb4f1f382dd9d99bae06cab95f901d7a1a5e922a3473550c8ffb"
             ],
             "index": "pypi",
-            "version": "==4.50.0"
+            "version": "==4.50.1"
         },
         "cachetools": {
             "hashes": [
