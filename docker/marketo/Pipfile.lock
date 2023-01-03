@@ -21,7 +21,7 @@
                 "sha256:03f829f5bb1923180821643f8753b0502c3b682293992485b0eef2807afa5cba",
                 "sha256:63579f9a0628e06278f7e47b7d7d5b6ce20dc65c5e96a6f3ca99a6adca0396e8"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==2.2.1"
         },
         "certifi": {
@@ -50,10 +50,10 @@
         },
         "marketorestpython": {
             "hashes": [
-                "sha256:a1227cbf914436f1394a56190ce2e2d36c232871dce91eb93fed60efa5eae719"
+                "sha256:7098af892b522c602fe8d2d825c013e8bb87f6b854c237a12eee0faa4a9f6304"
             ],
             "index": "pypi",
-            "version": "==0.5.21"
+            "version": "==0.5.23"
         },
         "pytz": {
             "hashes": [
@@ -67,7 +67,7 @@
                 "sha256:7c5599b102feddaa661c826c56ab4fee28bfd17f5abca1ebbe3e7f19d7c97983",
                 "sha256:8fefa2a1a1365bf5520aac41836fbee479da67864514bdb821f31ce07ce65349"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==2.28.1"
         },
         "urllib3": {
