@@ -150,11 +150,11 @@
         },
         "google-cloud-kms": {
             "hashes": [
-                "sha256:a285b1607e01f0763dc9b5a3d0642a5277e2157ccb0aac9718666ca1c57d39dd",
-                "sha256:ac2afbb3fd310d21ffb0aab43ac6bb05b2d7fae8f4186fc1a6c57ab05fe5fa24"
+                "sha256:8f84b811a448b7b7b920548df4dbea88ce399d5943b91944fba613586ed6a24e",
+                "sha256:f877e46ee93288c9367bd728d0440a64fcab9219a496f3104f6494ff3ab87a41"
             ],
             "index": "pypi",
-            "version": "==2.12.3"
+            "version": "==2.14.0"
         },
         "googleapis-common-protos": {
             "hashes": [
