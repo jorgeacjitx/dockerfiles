@@ -42,11 +42,11 @@
         },
         "carbon-black-cloud-sdk": {
             "hashes": [
-                "sha256:c728674a9be92d15416b2c89a755414b2b3e98302561d499f80e22b7fd29ad66",
-                "sha256:d241c686469477cb6da778d55506127c7741c70218762a140313461727f6758d"
+                "sha256:41f8d7953588252cb1d7c6c24ac298f55718f0159fc238911933b8d44cbb50c6",
+                "sha256:dcfb9995a9e63e4c918e54943723e6d63ec53f2147639870ee4b3a150089092f"
             ],
             "index": "pypi",
-            "version": "==1.4.0"
+            "version": "==1.4.1"
         },
         "cbapi": {
             "hashes": [
