@@ -142,11 +142,11 @@
         },
         "dateparser": {
             "hashes": [
-                "sha256:7552c994f893b5cb8fcf103b4cd2ff7f57aab9bfd2619fdf0cf571c0740fd90b",
-                "sha256:e875efd8c57c85c2d02b238239878db59ff1971f5a823457fcc69e493bf6ebfa"
+                "sha256:fbed8b738a24c9cd7f47c4f2089527926566fe539e1a06125eddba75917b1eef",
+                "sha256:ff047d9cffad4d3113ead8ec0faf8a7fc43bab7d853ac8715e071312b53c465a"
             ],
             "index": "pypi",
-            "version": "==0.7.6"
+            "version": "==1.1.7"
         },
         "funcy": {
             "hashes": [
