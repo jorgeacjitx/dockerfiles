@@ -246,17 +246,18 @@ resolvelib = ">=0.5.3,<0.9.0"
 
 [[package]]
 name = "ansible-runner"
-version = "2.1.1"
+version = "2.3.1"
 description = "\"Consistent Ansible Python API and CLI with container and process isolation runtime capabilities\""
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "ansible-runner-2.1.1.tar.gz", hash = "sha256:7684612f7543c5f07f3e8135667eeb22a9dbd98f625cc69901ba9924329ef24f"},
-    {file = "ansible_runner-2.1.1-py3-none-any.whl", hash = "sha256:75f41f3a6126c326b2099f69be52f5adce92f2ef62d130f30151b8d9e2bdbbdc"},
+    {file = "ansible-runner-2.3.1.tar.gz", hash = "sha256:1d2f02d3a62573f38e68a23790118b7981791c2bed2b5f22f7a36a221c288756"},
+    {file = "ansible_runner-2.3.1-py3-none-any.whl", hash = "sha256:f26d409293964d3a90c1af1acfd32d461f314f4405b72308d62f65d8ac4c0621"},
 ]
 
 [package.dependencies]
+packaging = "*"
 pexpect = ">=4.5"
 python-daemon = "*"
 pyyaml = "*"
@@ -2371,4 +2372,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "3081289fd706c1702f846ebc2c47f0e8c240e4877377f226d76b55e4edeb96b8"
+content-hash = "dbbe4e2c82247cfea1fce9b0f3476fdf5a973e3b033d0ccb93dff7e0db86d252"
