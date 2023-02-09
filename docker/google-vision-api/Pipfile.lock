@@ -176,11 +176,11 @@
         },
         "google-cloud-vision": {
             "hashes": [
-                "sha256:a162a546638cbc9db3db8a97a87a1e1930c3e316b01b2a1b78c8176630852ccd",
-                "sha256:afe6f6dc23741818cdf63078372ce832c5984ce14f055be2a86fd2bafe07cc65"
+                "sha256:1bbbf4f42035a49d8e48bee007362f7d11ab8cf8d0125c67c9e52f3f6be91494",
+                "sha256:b306ee151570c7200f8ec2727d83279c447e27b4497ada3b59eaf37c2aa1d493"
             ],
             "index": "pypi",
-            "version": "==0.42.0"
+            "version": "==3.3.1"
         },
         "googleapis-common-protos": {
             "hashes": [
@@ -279,6 +279,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==3.2.2"
+        },
+        "proto-plus": {
+            "hashes": [
+                "sha256:0e8cda3d5a634d9895b75c573c9352c16486cb75deb0e078b5fda34db4243165",
+                "sha256:de34e52d6c9c6fcd704192f09767cb561bb4ee64e70eede20b0834d841f0be4d"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.22.2"
         },
         "protobuf": {
             "hashes": [
