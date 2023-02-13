@@ -34,11 +34,11 @@
         },
         "azure-kusto-data": {
             "hashes": [
-                "sha256:210cbeaaa7924d92e91f7f24ae8a618d62bea9d6a33f9eebd8a288c4150aba1f",
-                "sha256:c4ae0a8b12a7aa646318a79d39e2a2322d0be83841cc8867f44da6cac3e8387e"
+                "sha256:e6af9c3d573c224f75ab41c13b7d5948746b132861711781a371b86092c2cc29",
+                "sha256:e801a061b6062b6e9d094790534d8fa49f428de3f2d877556a4e64bdc38c3ab1"
             ],
             "index": "pypi",
-            "version": "==4.1.0"
+            "version": "==4.1.1"
         },
         "certifi": {
             "hashes": [
