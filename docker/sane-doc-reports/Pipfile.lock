@@ -450,11 +450,11 @@
         },
         "mistune": {
             "hashes": [
-                "sha256:59a3429db53c50b5c6bcc8a07f8848cb00d7dc8bdb431a4ab41920d201d4756e",
-                "sha256:88a1051873018da288eee8538d476dffe1262495144b33ecb586c4ab266bb8d4"
+                "sha256:0246113cb2492db875c6be56974a7c893333bf26cd92891c85f63151cee09d34",
+                "sha256:bad7f5d431886fcbaf5f758118ecff70d31f75231b34024a1341120340a65ce8"
             ],
             "index": "pypi",
-            "version": "==0.8.4"
+            "version": "==2.0.5"
         },
         "numpy": {
             "hashes": [
