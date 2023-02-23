@@ -540,11 +540,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:1a128837b158d1e19613bc683086bd5bdd99e102506e71a35a39949a61d60253",
-                "sha256:d733cf67ca41a14af81ebdc6323cee4df1c14acb9b3bb8d14780782a60c18806"
+                "sha256:520a7cdcd0296ecd0ac420d139f9cee9318b77473e3fab08924189c78840cc1a",
+                "sha256:d00b12e68b59093939361109dfaf1dc87ea5c770d5a68103faa4b5a1ffa77f4d"
             ],
             "index": "pypi",
-            "version": "==1.15.2"
+            "version": "==1.16.0"
         },
         "jmespath": {
             "hashes": [
@@ -1094,11 +1094,11 @@
         },
         "soupsieve": {
             "hashes": [
-                "sha256:3b2503d3c7084a42b1ebd08116e5f81aadfaea95863628c80a3b774a11b7c759",
-                "sha256:fc53893b3da2c33de295667a0e19f078c14bf86544af307354de5fcf12a3f30d"
+                "sha256:49e5368c2cda80ee7e84da9dbe3e110b70a4575f196efb74e51b94549d921955",
+                "sha256:e28dba9ca6c7c00173e34e4ba57448f0688bb681b7c5e8bf4971daafc093d69a"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.3.2.post1"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.4"
         },
         "starkbank-ecdsa": {
             "hashes": [
