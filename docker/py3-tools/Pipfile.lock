@@ -383,11 +383,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:75997740323c5f12e18f10b494bc11c03e42843129f980f17c04352cc7b09d40",
-                "sha256:eb8f0f2d37ed68223ea63e3bddf2fac99667e4362c88b3f762e434d160190d18"
+                "sha256:99d6282f732410d44242ca02aa49835cf5473e2dd4d6734a2a785c8889dc191e",
+                "sha256:a26bfa34d26293e04886dff13fa8dd0c8c6e1a786b723c689755fe8939297410"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.10.2"
+            "version": "==3.10.3"
         },
         "frozenlist": {
             "hashes": [
@@ -578,11 +578,11 @@
         },
         "minio": {
             "hashes": [
-                "sha256:462aebd79000d5b923b2a728352014f76292bbd81a9d00e3ed25aa6ec4dc41f2",
-                "sha256:8828615a20cde82df79c5a52005252ad29bb022cde25177a4a43952a04c3222c"
+                "sha256:230faf1d0db1c3ce09aef86b0eb38e994a64769e34dad4b77febf59bc90d8ab0",
+                "sha256:ee5cbd4ba73f71b73555209f3411d5da3e9742bbe3fd038c362042d6d2527256"
             ],
             "index": "pypi",
-            "version": "==7.1.13"
+            "version": "==7.1.14"
         },
         "multidict": {
             "hashes": [
