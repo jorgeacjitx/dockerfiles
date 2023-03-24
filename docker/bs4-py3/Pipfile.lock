@@ -118,11 +118,11 @@
         },
         "markdown": {
             "hashes": [
-                "sha256:590e8c8139ce62a1121b4b07fd471eced441378f19f3265540de0791851977e5",
-                "sha256:e104be388c28462b4e83bd0ddfc68eff6022305cc4b5ab14caf8d235fae132b9"
+                "sha256:065fd4df22da73a625f14890dd77eb8040edcbd68794bcd35943be14490608b2",
+                "sha256:8bf101198e004dc93e84a12a7395e31aac6a9c9942848ae1d99b9d72cf9b3520"
             ],
             "index": "pypi",
-            "version": "==3.4.2"
+            "version": "==3.4.3"
         },
         "soupsieve": {
             "hashes": [
