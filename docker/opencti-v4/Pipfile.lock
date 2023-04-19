@@ -152,11 +152,11 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:d8bb81a2319b6d84ad5c65c3e9a593a18378fb8c329f192d951af713a7bb7203",
-                "sha256:e1469d31766cee9bd6d96bea4442477b2dc1cebc148031aa0a39a2244e892db6"
+                "sha256:069453f5660e8a9e491caad974cca8c41777290c547e42532534ea4e3f019498",
+                "sha256:6414102173c7c4a6bce83a418c03ed41aa83a03788fff54938038559b4e44ee1"
             ],
             "index": "pypi",
-            "version": "==5.7.post570"
+            "version": "==5.7.1"
         },
         "python-dateutil": {
             "hashes": [
