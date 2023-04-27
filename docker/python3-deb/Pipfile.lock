@@ -115,11 +115,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:99d6282f732410d44242ca02aa49835cf5473e2dd4d6734a2a785c8889dc191e",
-                "sha256:a26bfa34d26293e04886dff13fa8dd0c8c6e1a786b723c689755fe8939297410"
+                "sha256:ad98852315c2ab702aeb628412cbf7e95b7ce8c3bf9565670b4eaecf1db370a9",
+                "sha256:fc03ae43288c013d2ea83c8597001b1129db351aad9c57fe2409327916b8e718"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.10.3"
+            "version": "==3.12.0"
         },
         "funcy": {
             "hashes": [
@@ -170,10 +170,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:01a0681c4b9684a28304615eba55d1ab31ae00bf68ec157ec3708a8182dbbcd0",
-                "sha256:78f4f37d8198e0627c5f1143240bb0206b8691d8d7ac6d78fee88b78733f8c4a"
+                "sha256:1d8ce29db189191fb55338ee6d0387d82ab59f3d00eac103412d64e0ebd0c588",
+                "sha256:a151b3abb88eda1d4e34a9814df37de2a80e301e68ba0fd856fb9b46bfbbbffb"
             ],
-            "version": "==2022.7.1"
+            "version": "==2023.3"
         },
         "pytz-deprecation-shim": {
             "hashes": [
@@ -323,19 +323,19 @@
         },
         "tldextract": {
             "hashes": [
-                "sha256:47aa4d8f1a4da79a44529c9a2ddc518663b25d371b805194ec5ce2a5f615ccd2",
-                "sha256:78aef13ac1459d519b457a03f1f74c1bf1c2808122a6bcc0e6840f81ba55ad73"
+                "sha256:26f646987b01ae2946e7491cce4aaf54129f3489a196a274e6c843ec72968313",
+                "sha256:fa9e50c4a03bede2a1d95dca620d661678484626858ccf388cf9671a0dd497a4"
             ],
             "index": "pypi",
-            "version": "==3.4.0"
+            "version": "==3.4.1"
         },
         "tzdata": {
             "hashes": [
-                "sha256:2b88858b0e3120792a3c0635c23daf36a7d7eeeca657c323da299d2094402a0d",
-                "sha256:fe5f866eddd8b96e9fcba978f8e503c909b19ea7efda11e52e39494bad3a7bfa"
+                "sha256:11ef1e08e54acb0d4f95bdb1be05da659673de4acbd21bf9c69e94cc5e907a3a",
+                "sha256:7e65763eef3120314099b6939b5546db7adce1e7d6f2e179e3df563c70511eda"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2022.7"
+            "version": "==2023.3"
         },
         "tzlocal": {
             "hashes": [
