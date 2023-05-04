@@ -326,11 +326,11 @@
         },
         "publicsuffixlist": {
             "hashes": [
-                "sha256:0340e98f2ac656913c9c2b0a7ab109844f854be40e1977a22bff0ab0e72bdbfc",
-                "sha256:107fc6f729b042ef31dceb1573ef16547407c9034667724589aa9b20f9f23920"
+                "sha256:1b40bb12fa68a260b00caebf2f8bdb2fe54e87053a4c303a950c04b59cb6f93b",
+                "sha256:dcafb10c10901f14548c68520f2f3c694872dc24050bd7530ec38b062342b3b1"
             ],
             "markers": "python_version >= '2.6'",
-            "version": "==0.9.4"
+            "version": "==0.10.0.20230429"
         },
         "pycparser": {
             "hashes": [
@@ -344,11 +344,11 @@
                 "email"
             ],
             "hashes": [
-                "sha256:45c060a250a9cb275797b7c7dcc1ba7c6880ec1075fbf98e4ef273959ddf1a94",
-                "sha256:f324b30940854b5aeac5d62028da444cd0ac23df808c54e448d7c97a30fbb207"
+                "sha256:4ed8a190daaff25c530459d9d9284340d74f3060ce523b8e9fd4772fd704772d",
+                "sha256:b2d5c78a7f8d5dee7d4b0e763c1ff2a77e6888db6867c47cbb33d0053a95e5c2"
             ],
             "index": "pypi",
-            "version": "==2.4.170.1"
+            "version": "==2.4.170.2"
         },
         "pyparsing": {
             "hashes": [
@@ -415,11 +415,11 @@
         },
         "requests": {
             "hashes": [
-                "sha256:64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa",
-                "sha256:98b1b2782e3c6c4904938b84c0eb932721069dfdb9134313beff7c83c2df24bf"
+                "sha256:e8f3c9be120d3333921d213eef078af392fba3933ab7ed2d1cba3b56f2568c3b",
+                "sha256:f2e34a75f4749019bb0e3effb66683630e4ffeaf75819fb51bebef1bf5aef059"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4.0'",
-            "version": "==2.28.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.29.0"
         },
         "rtfde": {
             "hashes": [
