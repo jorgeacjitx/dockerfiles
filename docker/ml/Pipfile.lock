@@ -331,11 +331,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:ad98852315c2ab702aeb628412cbf7e95b7ce8c3bf9565670b4eaecf1db370a9",
-                "sha256:fc03ae43288c013d2ea83c8597001b1129db351aad9c57fe2409327916b8e718"
+                "sha256:42f1e4ff2b497311213d61ad7aac5fed9050608e5309573f101eefa94143134a",
+                "sha256:82b1f7da46f0ae42abf1bc78e548667f484ac59d2bcec38c713cee7e2eb51e83"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.12.0"
+            "version": "==3.12.1"
         },
         "flatbuffers": {
             "hashes": [
@@ -426,11 +426,11 @@
         },
         "imageio": {
             "hashes": [
-                "sha256:141bbd97910fad105c179a6b344ae4e7fef0dd85411303c63cd925b4c6163bee",
-                "sha256:9e2d1dec1c74ba10d58856f2f02883b84f5cd5be937a1156cc238b539a6cf068"
+                "sha256:4106fb395ef7f8dc0262d6aa1bb03daba818445c381ca8b7d5dfc7a2089b04df",
+                "sha256:f8436a02af02fd63f272dab50f7d623547a38f0e04a4a73e2b02ae1b8b180f27"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.31.0"
+            "version": "==2.31.1"
         },
         "jinja2": {
             "hashes": [
@@ -1649,11 +1649,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:478e1709738237aa1b7bae1fd0ba7bd9d44352fe45972df7ed060077257e84f9",
-                "sha256:e90e9fc05310985f3ede2da278d11c91656b4a354b4935c54604f57409299aae"
+                "sha256:9b12bd9d69f21b7c56cd512117fd52856b3def1c9bfc1da97ab0ee4e8bcbd797",
+                "sha256:fa74fc271d0692f385d571ce83ec898e3350455f6076d21631f4eed4916e6ffd"
             ],
             "index": "pypi",
-            "version": "==4.30.0"
+            "version": "==4.30.1"
         },
         "typer": {
             "hashes": [
