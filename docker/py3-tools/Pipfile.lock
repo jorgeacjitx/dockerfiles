@@ -527,11 +527,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:3a1b45539346a616bb7c38b22d0ea322c4f98e4eba1bf163f12714add6c2a6dc",
-                "sha256:dc2a9691f2f26b3657887efe0458f9208064d9258b91603f231c812ed89b2f72"
+                "sha256:682e561b6826e5dd05c29060e11fbf093b06ffbc81bf7831aebf04cb2f08b6d7",
+                "sha256:d3a6c7fea611188be96f21f7db38ad3ed085d0217f0a2e65ff7aefd3c9104a47"
             ],
             "index": "pypi",
-            "version": "==1.17"
+            "version": "==1.17.2"
         },
         "jmespath": {
             "hashes": [
@@ -1183,11 +1183,11 @@
         },
         "websocket-client": {
             "hashes": [
-                "sha256:3566f8467cd350874c4913816355642a4942f6c1ed1e9406e3d42fae6d6c072a",
-                "sha256:b96f3bce3e54e3486ebe6504bc22bd4c140392bd2eb71764db29be8f2639aa65"
+                "sha256:72d7802608745b0a212f79b478642473bd825777d8637b6c8c421bf167790d4f",
+                "sha256:e84c7eafc66aade6d1967a51dfd219aabdf81d15b9705196e11fd81f48666b78"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.5.3"
+            "version": "==1.6.0"
         },
         "xlrd": {
             "hashes": [
