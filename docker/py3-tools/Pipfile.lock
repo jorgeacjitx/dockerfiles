@@ -162,11 +162,11 @@
         },
         "asana": {
             "hashes": [
-                "sha256:6f323c286b6a8c1ddc3eb0a315814d1fc21f30b854e5134013a6f4eb542e678d",
-                "sha256:f9cde33268829d7a1d54702bf746da4ab77e3b67c829a5cbc1b132fb5ec842b1"
+                "sha256:99b5022fd41a7f4e018bfe82dd24884ba41d540d5014021abb55f56c73f1d37c",
+                "sha256:a51b633581505be97e41d150525f525832da23b56af2478adf9c4ef23dbf9844"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "version": "==4.0.4"
         },
         "async-timeout": {
             "hashes": [
