@@ -447,12 +447,13 @@ test = ["mock (>=1.3.0)"]
 
 [[package]]
 name = "intezer-sdk"
-version = "1.18.7"
+version = "1.18.8"
 description = "Intezer Analyze SDK"
 optional = false
 python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*"
 files = [
-    {file = "intezer_sdk-1.18.7-py3-none-any.whl", hash = "sha256:4afeb24cd505a2445079e2149b8e29558900e52c20ef40ec9749e89c3682c884"},
+    {file = "intezer_sdk-1.18.8-py3-none-any.whl", hash = "sha256:2807d36490ff5c3be92cdf7906de685b3b8f6850f8214fe541b9dcc53a2cad2e"},
+    {file = "intezer_sdk-1.18.8.tar.gz", hash = "sha256:d1d34ca56c1f764702a4cce8a5607bffb47f9034a5c06bf2a7c5275d5db18144"},
 ]
 
 [package.dependencies]
