@@ -670,11 +670,11 @@
         },
         "opensearch-py": {
             "hashes": [
-                "sha256:4093d0bbe575979d67cfd74a153eb91d82e354e232d76c6980876321c73056c1",
-                "sha256:493b224d0f865f62663f689c3a7662b1edccf9ee6c7643f2561cafda04e3a66a"
+                "sha256:eafbc5d56a7ca696afba7d77bcda1bbb849050cbf9265d57d8476576cb576395",
+                "sha256:f82a2e914835f7d645a632777de9a62d0c0de60ffd2f8cdae2ccfa4cfc40a185"
             ],
             "index": "pypi",
-            "version": "==2.3.0"
+            "version": "==2.3.1"
         },
         "packaging": {
             "hashes": [
