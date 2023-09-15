@@ -384,11 +384,11 @@
         },
         "filelock": {
             "hashes": [
-                "sha256:0ecc1dd2ec4672a10c8550a8182f1bd0c0a5088470ecd5a125e45f49472fac3d",
-                "sha256:f067e40ccc40f2b48395a80fcbd4728262fab54e232e090a4063ab804179efeb"
+                "sha256:08c21d87ded6e2b9da6728c3dff51baf1dcecf973b768ef35bcbc3447edb9ad4",
+                "sha256:2e6f249f1f3654291606e046b09f1fd5eac39b360664c27f5aad072012f8bcbd"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==3.12.3"
+            "version": "==3.12.4"
         },
         "frozenlist": {
             "hashes": [
@@ -515,11 +515,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:42874043ddde7acaa2e5df1efdd944088bfab9b0216f1e1dcdae6ad4eac79529",
-                "sha256:67b5b4e124f6755f9cd0fdff7a6f830dfe9814fa5f1dd0ab7a81244d4c2d11da"
+                "sha256:b57bf68bc868bb7ddced27fbdc126d611487e7761d10f70fe528de8723db7e93",
+                "sha256:d310a6cb65de8b745a0babf861a8075474ab148765548597d160eb059d312e9b"
             ],
             "index": "pypi",
-            "version": "==1.19"
+            "version": "==1.19.2"
         },
         "jmespath": {
             "hashes": [
@@ -1162,14 +1162,6 @@
             ],
             "index": "pypi",
             "version": "==4.4.0"
-        },
-        "typing-extensions": {
-            "hashes": [
-                "sha256:440d5dd3af93b060174bf433bccd69b0babc3b15b1a8dca43789fd7f61514b36",
-                "sha256:b75ddc264f0ba5615db7ba217daeb99701ad295353c45f9e95963337ceeeffb2"
-            ],
-            "markers": "python_version < '3.11'",
-            "version": "==4.7.1"
         },
         "urllib3": {
             "hashes": [
