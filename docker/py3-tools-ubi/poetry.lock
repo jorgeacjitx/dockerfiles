@@ -89,19 +89,20 @@ python-dateutil = ">=2.7.0"
 
 [[package]]
 name = "asana"
-version = "2.0.0"
-description = "Asana API client"
+version = "4.0.11"
+description = "Asana"
 optional = false
 python-versions = "*"
 files = [
-    {file = "asana-2.0.0-py2.py3-none-any.whl", hash = "sha256:f9cde33268829d7a1d54702bf746da4ab77e3b67c829a5cbc1b132fb5ec842b1"},
-    {file = "asana-2.0.0.tar.gz", hash = "sha256:6f323c286b6a8c1ddc3eb0a315814d1fc21f30b854e5134013a6f4eb542e678d"},
+    {file = "asana-4.0.11-py3-none-any.whl", hash = "sha256:355ea5ee6f6bbd2dfc7d8bd4825e787cb8335575698b8db12bafab283a18b948"},
+    {file = "asana-4.0.11.tar.gz", hash = "sha256:566a77f21809e4e9f5a2258076c18170bc15d801e1f9514b1e116d16198b0da2"},
 ]
 
 [package.dependencies]
-requests = ">=2.20.0,<3.dev0"
-requests-oauthlib = ">=0.8.0,<2.0"
-six = ">=1.10,<2.dev0"
+certifi = ">=2017.4.17"
+python-dateutil = ">=2.1"
+six = ">=1.10"
+urllib3 = ">=1.23"
 
 [[package]]
 name = "backoff"
