@@ -18,11 +18,11 @@
     "default": {
         "duo-client": {
             "hashes": [
-                "sha256:0fada57e03f52b780af36cd249bdef0ca24b680c9a8cf77da0560c0e68729653",
-                "sha256:cc144892dfbee6f9024bd624feb29b2a9f7bf33d7243590e81b44ab2d48a6f16"
+                "sha256:0dd8b7223a105beca4fdbfa71d400e813d9f33250c3da5fd63e437fb571b55f2",
+                "sha256:5dd6e7a526ea79952c078e5a5be93a1d70d36e685fad9478188156587e85b571"
             ],
             "index": "pypi",
-            "version": "==4.6.1"
+            "version": "==5.1.0"
         },
         "pydantic": {
             "hashes": [
@@ -64,15 +64,16 @@
                 "sha256:fab81a92f42d6d525dd47ced310b0c3e10c416bbfae5d59523e63ea22f82b31e"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.7'",
             "version": "==1.10.9"
         },
         "setuptools": {
             "hashes": [
-                "sha256:5df61bf30bb10c6f756eb19e7c9f3b473051f48db77fddbe06ff2ca307df9a6f",
-                "sha256:62642358adc77ffa87233bc4d2354c4b2682d214048f500964dbe760ccedf102"
+                "sha256:4ac1475276d2f1c48684874089fefcd83bd7162ddaafb81fac866ba0db282a87",
+                "sha256:b454a35605876da60632df1a60f736524eb73cc47bbc9f3f1ef1b644de74fd2a"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==67.8.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==68.2.2"
         },
         "six": {
             "hashes": [
@@ -84,11 +85,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:88a4153d8505aabbb4e13aacb7c486c2b4a33ca3b3f807914a9b4c844c471c26",
-                "sha256:d91d5919357fe7f681a9f2b5b4cb2a5f1ef0a1e9f59c4d8ff0d3491e05c0ffd5"
+                "sha256:8f92fc8806f9a6b641eaa5318da32b44d401efaac0f6678c9bc448ba3605faa0",
+                "sha256:df8e4339e9cb77357558cbdbceca33c303714cf861d1eef15e1070055ae8b7ef"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==4.6.3"
+            "markers": "python_version >= '3.8'",
+            "version": "==4.8.0"
         }
     },
     "develop": {}
