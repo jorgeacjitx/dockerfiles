@@ -94,19 +94,18 @@ test = ["dateparser (==1.*)", "pre-commit", "pytest", "pytest-cov", "pytest-mock
 
 [[package]]
 name = "asana"
-version = "2.0.0"
+version = "3.2.2"
 description = "Asana API client"
 optional = false
 python-versions = "*"
 files = [
-    {file = "asana-2.0.0-py2.py3-none-any.whl", hash = "sha256:f9cde33268829d7a1d54702bf746da4ab77e3b67c829a5cbc1b132fb5ec842b1"},
-    {file = "asana-2.0.0.tar.gz", hash = "sha256:6f323c286b6a8c1ddc3eb0a315814d1fc21f30b854e5134013a6f4eb542e678d"},
+    {file = "asana-3.2.2-py2.py3-none-any.whl", hash = "sha256:e8426ae5f5cda2c27d29874145acb589b91e673a84e3fbd45404679499d9604a"},
+    {file = "asana-3.2.2.tar.gz", hash = "sha256:3a0c64ad5baaa8c52465fe400cedbc873b2127a77df135af518fd8da1af8d6b9"},
 ]
 
 [package.dependencies]
 requests = ">=2.20.0,<3.dev0"
 requests-oauthlib = ">=0.8.0,<2.0"
-six = ">=1.10,<2.dev0"
 
 [[package]]
 name = "backoff"
