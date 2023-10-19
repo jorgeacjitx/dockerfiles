@@ -18,11 +18,11 @@
     "default": {
         "annotated-types": {
             "hashes": [
-                "sha256:47cdc3490d9ac1506ce92c7aaa76c579dc3509ff11e098fc867e5130ab7be802",
-                "sha256:58da39888f92c276ad970249761ebea80ba544b77acddaa1a4d6cf78287d45fd"
+                "sha256:0641064de18ba7a25dee8f96403ebc39113d0cb953a01429249d5c7564666a43",
+                "sha256:563339e807e53ffd9c267e99fc6d9ea23eb8443c08f112651963e24e22f84a5d"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==0.5.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==0.6.0"
         },
         "anyio": {
             "hashes": [
@@ -50,12 +50,12 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:3270de872f0fe9ec809d4bd3d4d890c6d5cc7b9611d721d6438f9dacc8c4ef2e",
-                "sha256:75a11f6bfb8fc4d2bec0bd710c2d5f2829659c0e8c0afd5560fdda6ce25ec653"
+                "sha256:456482c1178fb7beb2814b88e1885bc49f9a81f079665016feffe3e1c6a7663e",
+                "sha256:9c44de45693ae037b0c6914727a29c49a40668432b67c859a87851fc6a7b74c6"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
-            "version": "==0.103.2"
+            "markers": "python_version >= '3.8'",
+            "version": "==0.104.0"
         },
         "h11": {
             "hashes": [
@@ -214,7 +214,7 @@
                 "sha256:8f92fc8806f9a6b641eaa5318da32b44d401efaac0f6678c9bc448ba3605faa0",
                 "sha256:df8e4339e9cb77357558cbdbceca33c303714cf861d1eef15e1070055ae8b7ef"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version < '3.11'",
             "version": "==4.8.0"
         },
         "uvicorn": {
