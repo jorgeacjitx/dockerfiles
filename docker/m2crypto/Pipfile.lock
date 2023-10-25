@@ -18,10 +18,10 @@
     "default": {
         "m2crypto": {
             "hashes": [
-                "sha256:24c0f471358b8b19ad4c8aa9da12e868030b65c1fdb3279d006df60c9501338a"
+                "sha256:7eaac7d8e90a7075b1e5a21e4a2696cec39a5df292044a13734ac7169e1e4356"
             ],
             "index": "pypi",
-            "version": "==0.39.0"
+            "version": "==0.40.0"
         }
     },
     "develop": {}
