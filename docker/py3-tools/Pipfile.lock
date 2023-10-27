@@ -534,11 +534,12 @@
         },
         "imapclient": {
             "hashes": [
-                "sha256:057f28025d2987c63e065afb0e4370b0b850b539b0e1494cea0427e88130108c",
-                "sha256:26ea995664fae3a88b878ebce2aff7402931697b86658b7882043ddb01b0e6ba"
+                "sha256:31ec03da31f82fb380fdc0c79a9c31272789b50680285ade6581338c17ad8bf3",
+                "sha256:93a283c733288639b07989ffcf950f4046c831f1107f634de63b4e1ef9b75eb5"
             ],
             "index": "pypi",
-            "version": "==2.3.1"
+            "markers": "python_full_version >= '3.7.0'",
+            "version": "==3.0.0"
         },
         "intezer-sdk": {
             "hashes": [
