@@ -856,20 +856,20 @@ msrestazure = ">=0.4.32,<2.0.0"
 
 [[package]]
 name = "azure-mgmt-rdbms"
-version = "1.9.0"
+version = "8.0.0"
 description = "Microsoft Azure RDBMS Management Client Library for Python"
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "azure-mgmt-rdbms-1.9.0.zip", hash = "sha256:d9d4090010cbb64176ce094603f1298af7368ddb3a0cb606d5e972331285216d"},
-    {file = "azure_mgmt_rdbms-1.9.0-py2.py3-none-any.whl", hash = "sha256:6d6f8e48c0458a67b4fd10ea4bb5f3e9b622784f4ef27c296af95a48d377dce5"},
+    {file = "azure-mgmt-rdbms-8.0.0.zip", hash = "sha256:8b018543048fc4fddb4155d9f22246ad0c4be2fb582a29dbb21ec4022724a119"},
+    {file = "azure_mgmt_rdbms-8.0.0-py2.py3-none-any.whl", hash = "sha256:910955a5517f44e81cd6b7ba03aba038f3e7105fd651df2f1452bd24625775bd"},
 ]
 
 [package.dependencies]
 azure-common = ">=1.1,<2.0"
+azure-mgmt-core = ">=1.2.0,<2.0.0"
 msrest = ">=0.5.0"
-msrestazure = ">=0.4.32,<2.0.0"
 
 [[package]]
 name = "azure-mgmt-recoveryservices"
@@ -2364,4 +2364,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "96e84b067c9c5f90af534c35da444e76fad0e2497dcf88aad53ee4b3acdebd22"
+content-hash = "9cba19c3471f959342e3d7344421decb08633a3599bfd1a33bb00ab080aa4f4e"
