@@ -687,20 +687,20 @@ msrestazure = ">=0.4.32,<2.0.0"
 
 [[package]]
 name = "azure-mgmt-iothub"
-version = "0.7.0"
+version = "1.0.0"
 description = "Microsoft Azure IoTHub Management Client Library for Python"
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "azure-mgmt-iothub-0.7.0.zip", hash = "sha256:a0055fa6ec7a8d6dc9458605878d04d229f57f248096e54bc82dbe4c16d17634"},
-    {file = "azure_mgmt_iothub-0.7.0-py2.py3-none-any.whl", hash = "sha256:a8f0be29f926a96802f734e690b51d64e7c713dc0324b12c15c7c378b9c98d95"},
+    {file = "azure-mgmt-iothub-1.0.0.zip", hash = "sha256:7acf24088395a299974dd26406db2686d8d59a3fffbe47c24617b36d445f2de8"},
+    {file = "azure_mgmt_iothub-1.0.0-py2.py3-none-any.whl", hash = "sha256:38c78917ce5b0a0f63722952113ce5f96daa20831e65b64aba5262de456399d2"},
 ]
 
 [package.dependencies]
 azure-common = ">=1.1,<2.0"
+azure-mgmt-core = ">=1.2.0,<2.0.0"
 msrest = ">=0.5.0"
-msrestazure = ">=0.4.32,<2.0.0"
 
 [[package]]
 name = "azure-mgmt-keyvault"
@@ -2364,4 +2364,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "96e84b067c9c5f90af534c35da444e76fad0e2497dcf88aad53ee4b3acdebd22"
+content-hash = "d48afb49eb12f2be555cc8b65de5a0d5ebe9be6dbd697a16d951270e81fad4e3"
