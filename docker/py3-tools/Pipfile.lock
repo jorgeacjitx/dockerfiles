@@ -164,11 +164,11 @@
         },
         "asana": {
             "hashes": [
-                "sha256:6f323c286b6a8c1ddc3eb0a315814d1fc21f30b854e5134013a6f4eb542e678d",
-                "sha256:f9cde33268829d7a1d54702bf746da4ab77e3b67c829a5cbc1b132fb5ec842b1"
+                "sha256:b5d7205e6a8c5e43ab3e21a02297e445fe1945e113fe11ae19fae4b6ac74420a",
+                "sha256:b66ee66228532b5da68da0deaa338c03c81a26f297173109b4e5f2884ac12dd3"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "version": "==5.0.0"
         },
         "async-timeout": {
             "hashes": [
@@ -205,11 +205,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:539cc1d13202e33ca466e88b2807e29f4c13049d6d87031a3c110744495cb082",
-                "sha256:92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9"
+                "sha256:9b469f3a900bf28dc19b8cfbf8019bf47f7fdd1a65a1d4ffb98fc14166beb4d1",
+                "sha256:e036ab49d5b79556f99cfc2d9320b34cfbe5be05c5871b51de9329f0603b0474"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2023.7.22"
+            "version": "==2023.11.17"
         },
         "chardet": {
             "hashes": [
