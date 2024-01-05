@@ -352,12 +352,12 @@
                 "email"
             ],
             "hashes": [
-                "sha256:888e848494e04148c8ff5887f04154a2b40f3065c53d93f9cec65f7ca7171362",
-                "sha256:8c33602c3cccc0af3d331b6d80f2dd517545c867dada661e0c6a786effdd3a83"
+                "sha256:00abe5592f07bb1cd41ca803f9b0b8b2b70474004a779be53cd215280fd625b3",
+                "sha256:104ead987cb069b87a9d335cf6ec8edccda386b281de57460a2450a143ffc822"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==2.4.182"
+            "version": "==2.4.183"
         },
         "pyparsing": {
             "hashes": [
