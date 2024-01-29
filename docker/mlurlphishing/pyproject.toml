@@ -11,7 +11,7 @@ opencv-python = "==4.9.0.80"  # using previous version until fixed https://githu
 scikit-learn = "==1.4.0"
 pandas = "==1.5.3"
 beautifulsoup4 = "*"
-dill = "==0.3.7"
+dill = "==0.3.8"
 catboost = "==1.2.2"
 
 
