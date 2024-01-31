@@ -175,12 +175,12 @@
         },
         "pycti": {
             "hashes": [
-                "sha256:5d3123d42c0cb56d0ec750678499b9d41a0abd2e6f0efc601f604bae9b385a47",
-                "sha256:ed05cc6f471d5d194240e6a6230f391bdcaad803c4ac95151d06e49b3c48cb84"
+                "sha256:3c16ace41516eb7595b4c9b9760cf64f310793079700f3a9e201a8e44af9f2f1",
+                "sha256:8d13f88fcf03ac8018d0df4042892975b5f78dfefe3568c550db14874b095927"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==5.12.25"
+            "version": "==5.12.26"
         },
         "python-dateutil": {
             "hashes": [
@@ -515,11 +515,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3",
-                "sha256:df7aa8afb0148fa78488e7899b2c59b5f4ffcfa82e6c54ccb9dd37c1d7b52d54"
+                "sha256:051d961ad0c62a94e50ecf1af379c3aba230c66c710493493560c0c223c49f20",
+                "sha256:ce3711610ddce217e6d113a2732fafad960a03fd0318c91faa79481e35c11224"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.1.0"
+            "version": "==2.2.0"
         }
     },
     "develop": {}
