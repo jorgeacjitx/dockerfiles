@@ -447,12 +447,12 @@
         },
         "demisto-sdk": {
             "hashes": [
-                "sha256:a65d453cc4339cf2e8c41eb6f73d37f317878ce82d83e1f19ca5a30c8d74360c",
-                "sha256:bd8c7a609822550ce882efeffff5f62d44923fc157ec99a6c93232ac84d4bc4d"
+                "sha256:d2a638d70ba1b5484823c61a22894e5fd68b1d474feb9fd7b0e962d7131674f0",
+                "sha256:ee697ce36eed1feab8f711c7d50e4e6d2751f39f5d8296bfe6f6ea9ef782f9ee"
             ],
             "index": "pypi",
             "markers": "python_version < '3.11' and python_version >= '3.8'",
-            "version": "==1.26.0"
+            "version": "==1.26.1"
         },
         "dictdiffer": {
             "hashes": [
@@ -556,11 +556,11 @@
                 "grpc"
             ],
             "hashes": [
-                "sha256:2aa56d2be495551e66bbff7f729b790546f87d5c90e74781aa77233bcb395a8a",
-                "sha256:abc978a72658f14a2df1e5e12532effe40f94f868f6e23d95133bd6abcca35ca"
+                "sha256:257e9e152cd18da0c6701113c122ade04dca04731e179fc5c7dca48e1396ec4c",
+                "sha256:7f668ffa3d5b9f3c6930407e5f5d691c05a376050a5a5fd772b9dc32e70a0c30"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.15.0"
+            "version": "==2.16.1"
         },
         "google-auth": {
             "hashes": [
@@ -1061,10 +1061,10 @@
         },
         "neo4j": {
             "hashes": [
-                "sha256:3d04334f5f99dc06c8150e75f2d608a560789ef35670494ecdcec31c0af276a9"
+                "sha256:dcd7150a0c3834a89a6e27505e614f340376f31c97c48ba60dc70a220ee85e3b"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==5.16.0"
+            "version": "==5.17.0"
         },
         "networkx": {
             "hashes": [
@@ -1187,11 +1187,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:11c8f37bcca40db96d8144522d925583bdb7a31f7b0e37e3ed4318400a8e2380",
-                "sha256:906d548203468492d432bcb294d4bc2fff751bf84971fbb2c10918cc206ee420"
+                "sha256:0614df2a2f37e1a662acbd8e2b25b92ccf8632929bc6d43467e17fe89c75e068",
+                "sha256:ef0cc731df711022c174543cb70a9b5bd22e5a9337c8624ef2c2ceb8ddad8768"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==4.1.0"
+            "version": "==4.2.0"
         },
         "pluggy": {
             "hashes": [
@@ -2014,11 +2014,11 @@
         },
         "types-protobuf": {
             "hashes": [
-                "sha256:024f034f3b5e2bb2bbff55ebc4d591ed0d2280d90faceedcb148b9e714a3f3ee",
-                "sha256:0612ef3156bd80567460a15ac7c109b313f6022f1fee04b4d922ab2789baab79"
+                "sha256:23be68cc29f3f5213b5c5878ac0151706182874040e220cfb11336f9ee642ead",
+                "sha256:8a83dd3b9b76a33e08d8636c5daa212ace1396418ed91837635fcd564a624891"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==4.24.0.20240106"
+            "version": "==4.24.0.20240129"
         },
         "types-pymysql": {
             "hashes": [
