@@ -235,11 +235,12 @@
         },
         "netaddr": {
             "hashes": [
-                "sha256:9822305b42ea1020d54fee322d43cee5622b044c07a1f0130b459bb467efcf88",
-                "sha256:f4da4222ca8c3f43c8e18a8263e5426c750a3a837fdfeccf74c68d0408eaa3bf"
+                "sha256:6eb8fedf0412c6d294d06885c110de945cf4d22d2b510d0404f4e06950857987",
+                "sha256:bd9e9534b0d46af328cf64f0e5a23a5a43fca292df221c85580b27394793496e"
             ],
             "index": "pypi",
-            "version": "==0.10.1"
+            "markers": "python_version >= '3.7'",
+            "version": "==1.2.1"
         },
         "pyjwt": {
             "hashes": [
