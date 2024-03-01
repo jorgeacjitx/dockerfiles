@@ -63,12 +63,12 @@
         },
         "gdetect": {
             "hashes": [
-                "sha256:c7756003e4bcca6f61f797d9edadfc0095b95d288cf5a6f0333a83282fd6aff0",
-                "sha256:d6a3cb91ba1dafd2be96789e1e741b99f4678c7162e39581d25043d6f192a8df"
+                "sha256:76f728c3bd7e013457136953b3f51b1fc674423dd5ea8953cae2f3ddc036904b",
+                "sha256:dc72f93f6ab7d62dc8d7ab63935361f4c406ef279fcd49ec20d41efc381dd11c"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==0.4.2"
+            "version": "==0.5.0"
         },
         "idna": {
             "hashes": [
