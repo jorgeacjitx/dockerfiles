@@ -18,11 +18,11 @@
     "default": {
         "cachetools": {
             "hashes": [
-                "sha256:086ee420196f7b2ab9ca2db2520aca326318b68fe5ba8bc4d49cca91add450f2",
-                "sha256:861f35a13a451f94e301ce2bec7cac63e881232ccce7ed67fab9b5df4d3beaa1"
+                "sha256:0abad1021d3f8325b2fc1d2e9c8b9c9d57b04c3932657a72465447332c24d945",
+                "sha256:ba29e2dfa0b8b556606f097407ed1aa62080ee108ab0dc5ec9d6a723a007d105"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==5.3.2"
+            "version": "==5.3.3"
         },
         "certifi": {
             "hashes": [
@@ -149,12 +149,12 @@
         },
         "google-cloud-securitycenter": {
             "hashes": [
-                "sha256:00b7404fe0b92c14eb4805e4ea4a3d2a276eb4de53b9bfae7c30317d9b121ad9",
-                "sha256:3bd12c050fcb0da17fbd5c49578168287068e4f3327fb6c6646c00126dda4077"
+                "sha256:9c6297035140e992549809875398222fb97ebb22cb0c09c46578cd01f1ae6de2",
+                "sha256:f34b32a96a0ad89f828ec0453ba2c912e17ea629891a9b9f8112ce6c748a700c"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==1.27.0"
+            "version": "==1.28.0"
         },
         "googleapis-common-protos": {
             "extras": [
