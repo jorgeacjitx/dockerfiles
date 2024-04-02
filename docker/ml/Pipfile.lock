@@ -447,11 +447,11 @@
         },
         "huggingface-hub": {
             "hashes": [
-                "sha256:5b8aaee5f3618cd432f49886da9935bbe8fab92d719011826430907b93171dd8",
-                "sha256:eac63947923d15c9a68681d7ed2d9599e058860617064e3ee6bd91a4b954faaf"
+                "sha256:32e9a9a6843c92f253ff9ca16b9985def4d80a93fb357af5353f770ef74a81be",
+                "sha256:3429e25f38ccb834d310804a3b711e7e4953db5a9e420cc147a5e194ca90fd17"
             ],
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==0.22.1"
+            "version": "==0.22.2"
         },
         "humanfriendly": {
             "hashes": [
@@ -1945,12 +1945,12 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:8388a4ae1d91ade935f5c5b36dc47aa1a352b092c30595e3337b49a5f7e71b4e",
-                "sha256:be0c7392cb92ab48efab2656f1cfd1cbda33b2b8a2917a18bd1196707dbebe14"
+                "sha256:2586e5ff4150f122716fc40f5530e92871befc051848fbe82600969c535b762d",
+                "sha256:7838034a12cca3168247f9d2d1dba6724c9de3ae0f73a108258c6b8fc5912601"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==4.39.2"
+            "version": "==4.39.3"
         },
         "typer": {
             "hashes": [
