@@ -149,12 +149,12 @@
         },
         "networkx": {
             "hashes": [
-                "sha256:230d388117af870fce5647a3c52401fcf753e94720e6ea6b4197a5355648885e",
-                "sha256:e435dfa75b1d7195c7b8378c3859f0445cd88c6b0375c181ed66823a9ceb7524"
+                "sha256:0c127d8b2f4865f59ae9cb8aafcd60b5c70f3241ebd66f7defad7c4ab90126c9",
+                "sha256:28575580c6ebdaf4505b22c6256a2b9de86b316dc63ba9e93abde3d78dfdbcf2"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8'",
-            "version": "==2.8.8"
+            "markers": "python_version >= '3.10'",
+            "version": "==3.3"
         },
         "nltk": {
             "hashes": [
