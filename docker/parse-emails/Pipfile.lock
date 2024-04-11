@@ -136,11 +136,11 @@
         },
         "datetime": {
             "hashes": [
-                "sha256:568ea851d40773d846c0b5efe260aecb717c2b933c052a3c13b712809c16b57d",
-                "sha256:88caf4d2441fe479038f4740a1071953686f7c1ed6c9e8c7df9ebe84e592f0c6"
+                "sha256:0abf6c51cb4ba7cee775ca46ccc727f3afdde463be28dbbe8803631fefd4a120",
+                "sha256:21ec6331f87a7fcb57bd7c59e8a68bfffe6fcbf5acdbbc7b356d6a9a020191d3"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==5.4"
+            "version": "==5.5"
         },
         "easygui": {
             "hashes": [
@@ -206,12 +206,12 @@
         },
         "parse-emails": {
             "hashes": [
-                "sha256:630f4756f061755a532727b49497a212356cf301381d164ea4a5ea6f442f25af",
-                "sha256:830b7ef8c31a0043c4eb894ef1ba21b267f6f56d6b4584e26f9f4c67ced3d26f"
+                "sha256:9d0c3dcd2100d867c96560633b878f85102a50719455d1465fd3cc163ff3d73c",
+                "sha256:f8b8079a92de50464084c27359949967fcca6d2f7ea2b7d245c0c7b110245caf"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7' and python_version < '4.0'",
-            "version": "==0.1.21"
+            "version": "==0.1.22"
         },
         "pcodedmp": {
             "hashes": [
@@ -238,10 +238,11 @@
         },
         "pycparser": {
             "hashes": [
-                "sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9",
-                "sha256:e644fdec12f7872f86c58ff790da456218b10f863970249516d60a5eaca77206"
+                "sha256:491c8be9c040f5390f5bf44a5b07752bd07f56edf992381b05c701439eec10f6",
+                "sha256:c3702b6d3dd8c7abc1afa565d7e63d53a1d0bd86cdc24edd75470f4de499cfcc"
             ],
-            "version": "==2.21"
+            "markers": "python_version >= '3.8'",
+            "version": "==2.22"
         },
         "pyopenssl": {
             "hashes": [
