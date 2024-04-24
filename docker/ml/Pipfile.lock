@@ -1926,12 +1926,12 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:92797ec3368ed4476a053529a4039a12ad09167d9e371981dda4afb4bdf590ac",
-                "sha256:fdb01dfe6a492bd34e3fa2aefffa470b1d8a2341db47a932f83ed33839d96b03"
+                "sha256:55e1697e6f18b58273e7117bb469cdffc11be28995462d8d5e422fef38d2de36",
+                "sha256:9d5ee0c8142a60501faf9e49a0b42f8e9cb8611823bce4f195a9325a6816337e"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==4.40.0"
+            "version": "==4.40.1"
         },
         "typer": {
             "hashes": [
