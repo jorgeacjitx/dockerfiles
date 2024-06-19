@@ -34,19 +34,19 @@
         },
         "azure-identity": {
             "hashes": [
-                "sha256:6d93f04468f240d59246d8afde3091494a5040d4f141cad0f49fc0c399d0d91e",
-                "sha256:8fb07c25642cd4ac422559a8b50d3e77f73dcc2bbfaba419d06d6c9d7cff6726"
+                "sha256:501d6c2cbb07826ff5e7cebc05ef319ba45612f31f0bdadca260005798e4ef16",
+                "sha256:a1168f223b2d7fa3968362b78affd157a1f3772f310a8cdce883cc515c6c8998"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==1.16.1"
+            "version": "==1.17.0"
         },
         "azure-kusto-data": {
             "hashes": [
-                "sha256:ac7314c3fdf2854fcd7e2b614a391b595cbc39f1bf36038a74e350cc5cc6e234",
-                "sha256:ee58b53b70e091499de4ec0caf99efc026d49cbf9acc322251277f1876bfcadf"
+                "sha256:13675546254021bba4fccba801c15ca8f18037510f527fe518001b544e1335ce",
+                "sha256:8ae99bd2a88793345d2cbe32f2c14ce27a2d1e3adcee29a718b7e7c3ccb1fcbd"
             ],
             "index": "pypi",
-            "version": "==4.5.0"
+            "version": "==4.5.1"
         },
         "certifi": {
             "hashes": [
