@@ -149,12 +149,12 @@
         },
         "google-cloud-securitycenter": {
             "hashes": [
-                "sha256:b1b39a7d5d896bf55b3412b1e1f8384bef81d4a5a87960fa68161eaf96b08c1b",
-                "sha256:cc57c1bcf21133a92f348b2da4bea92fe9f37433222d81d8962b5e1e7703db35"
+                "sha256:213b614e9459f2abe9d85ab5168eea0e18a2c2cf0010d11ab266af99ed5b9af9",
+                "sha256:fc1b0a4c430aca3f9d4d122eb4d32edc93ff0c780704d82f26fa7e7a16f9f279"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==1.32.1"
+            "version": "==1.33.0"
         },
         "googleapis-common-protos": {
             "extras": [
