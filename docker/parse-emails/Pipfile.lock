@@ -287,12 +287,11 @@
         },
         "rtfde": {
             "hashes": [
-                "sha256:18386e4f060cee12a2a8035b0acf0cc99689f5dff1bf347bab7e92351860a21d",
-                "sha256:b86b5d734950fe8745a5b89133f50554252dbd67c6d1b9265e23ee140e7ea8a2"
+                "sha256:f6d1450c99b04e930da130e8b419aa33b1f953623e1b94ad5c0f67f0362eb737"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.6'",
-            "version": "==0.0.2"
+            "markers": "python_version ~= '3.8'",
+            "version": "==0.1.2"
         },
         "setuptools": {
             "hashes": [
