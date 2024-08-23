@@ -2045,12 +2045,12 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:3b9a1a07ca65c665c7bf6109b7da76182184d10bb58d9ab14e6892e7b9e073a2",
-                "sha256:bd2642da18b4e6d29b135c17650cd7ca8e874f2d092d2eddd3ed6b71a93a155c"
+                "sha256:1c02c65e7bfa5e52a634aff3da52138b583fc6f263c1f28d547dc144ba3d412d",
+                "sha256:36aa17cc92ee154058e426d951684a2dab48751b35b49437896f898931270826"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
-            "version": "==4.44.1"
+            "version": "==4.44.2"
         },
         "typer": {
             "hashes": [
