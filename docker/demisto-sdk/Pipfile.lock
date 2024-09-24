@@ -50,11 +50,11 @@
         },
         "bandit": {
             "hashes": [
-                "sha256:52077cb339000f337fb25f7e045995c4ad01511e716e5daac37014b9752de8ec",
-                "sha256:7c395a436743018f7be0a4cbb0a4ea9b902b6d87264ddecf8cfdc73b4f78ff61"
+                "sha256:59ed5caf5d92b6ada4bf65bc6437feea4a9da1093384445fed4d472acc6cff7b",
+                "sha256:665721d7bebbb4485a339c55161ac0eedde27d51e638000d91c8c2d68343ad02"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==1.7.9"
+            "version": "==1.7.10"
         },
         "bcrypt": {
             "hashes": [
@@ -470,12 +470,12 @@
         },
         "demisto-sdk": {
             "hashes": [
-                "sha256:a12090132f8d77e89346bc64d949148407bc45c2abb9b48d9ae856487d06c9a4",
-                "sha256:df638b34e7aad207a8bd6560367fcdbab3fae0a333603275f346b4c6b9938b9c"
+                "sha256:4e835f0b944558ce874fc6a703200e34fa51269d092299f3bad0ebf2b78044b4",
+                "sha256:9c2ea4d67d1621c574c526219d3613b352cf71636826e328708df7c3ce7ec867"
             ],
             "index": "pypi",
             "markers": "python_version < '3.12' and python_version >= '3.9'",
-            "version": "==1.32.0"
+            "version": "==1.32.1"
         },
         "deprecated": {
             "hashes": [
