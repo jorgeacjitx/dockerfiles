@@ -223,12 +223,12 @@
         },
         "parse-emails": {
             "hashes": [
-                "sha256:a694da147de83c0bccfe2d33f1010f6e290a99c2216ab17baedb7ee4a3de5dfc",
-                "sha256:f6f705437be3812d881c1070012c32bdfe07e6e794552681c8d90914ad91259f"
+                "sha256:9e301f04e9c4472ac4e67bee2d4751d9fce20b44f0d41684cf0fa687f83545ba",
+                "sha256:af98edceec76cd200b7c4db766f9715c9a6ebd638d7914b896b2030a1640ec5b"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7' and python_version < '4.0'",
-            "version": "==0.1.28"
+            "version": "==0.1.29"
         },
         "pcodedmp": {
             "hashes": [
@@ -318,19 +318,19 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:5f4c08aa4d3ebcb57a50c33b1b07e94315d7fc7230f7115e47fc99776c8ce308",
-                "sha256:95b40ed940a1c67eb70fc099094bd6e99c6ee7c23aa2306f4d2697ba7916f9c6"
+                "sha256:35ab7fd3bcd95e6b7fd704e4a1539513edad446c097797f2985e0e4b960772f2",
+                "sha256:d59a21b17a275fb872a9c3dae73963160ae079f1049ed956880cd7c09b120538"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==74.1.2"
+            "version": "==75.1.0"
         },
         "tomli": {
             "hashes": [
-                "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc",
-                "sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f"
+                "sha256:2ebe24485c53d303f690b0ec092806a085f07af5a5aa1464f3931eec36caaa38",
+                "sha256:d46d457a85337051c36524bc5349dd91b1877838e2979ac5ced3e710ed8a60ed"
             ],
             "markers": "python_version < '3.11'",
-            "version": "==2.0.1"
+            "version": "==2.0.2"
         },
         "zope.interface": {
             "hashes": [
