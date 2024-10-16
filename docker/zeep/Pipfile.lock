@@ -359,12 +359,12 @@
         },
         "zeep": {
             "hashes": [
-                "sha256:26a1658057411fb331ee0602633c31b5c754ff1d7b9b38a15e83737597c080eb",
-                "sha256:4bafaf1997a46b5560c5e928f2bc1b04f04c31dad121ecbe1e952f23aee4c19e"
+                "sha256:a637aa7eedb6330bb27e8c94c5233ddf23553904323adf9398f8cf5025acb216",
+                "sha256:f45385e9e1b09d5550e0f51ab9fa7c6842713cab7194139372fd82a99c56a06e"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==4.3.0"
+            "version": "==4.3.1"
         }
     },
     "develop": {}
