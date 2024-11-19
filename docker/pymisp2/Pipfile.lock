@@ -254,11 +254,11 @@
         },
         "deprecated": {
             "hashes": [
-                "sha256:6fac8b097794a90302bdbb17b9b815e732d3c4720583ff1b198499d78470466c",
-                "sha256:e5323eb936458dccc2582dc6f9c322c852a775a27065ff2b0c4970b9d53d01b3"
+                "sha256:353bc4a8ac4bfc96800ddab349d89c25dec1079f65fd53acdcc1e0b975b21320",
+                "sha256:683e561a90de76239796e6b6feac66b99030d2dd3fcf61ef996330f14bbb9b0d"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==1.2.14"
+            "version": "==1.2.15"
         },
         "easygui": {
             "hashes": [
@@ -349,11 +349,11 @@
         },
         "publicsuffixlist": {
             "hashes": [
-                "sha256:0ce219290ba7fa2073441724257678bb740addda6447c26ced94d817da8ae83b",
-                "sha256:4f79b29a1e0538055b31d7a9e89851e89b9dd8d3b01b06e4828d3c5dc89d15b1"
+                "sha256:04b46633e29decf2f9a29a451912fec8076c753f93c4869447bb55d4e614eba5",
+                "sha256:825b0c3640c2a402a63dd108efd91f67ed0ba2427786892018d364de0dc2ca0f"
             ],
             "markers": "python_version >= '3.5'",
-            "version": "==1.0.2.20241018"
+            "version": "==1.0.2.20241119"
         },
         "pycparser": {
             "hashes": [
@@ -367,12 +367,12 @@
                 "email"
             ],
             "hashes": [
-                "sha256:29afd529b1e18ebf7a242c68ab240561dbf5b706d11612d75fc692413fd92990",
-                "sha256:8aa3aa9e8ad9d9eb7a31e8ad5c07741855d4bac6efa65d83ea6a62689efae2c2"
+                "sha256:bcce077f8ccbe73958d47c778b30d7a9b2fb4b249cba2e3188a06df5be6cd2e1",
+                "sha256:ca512c9754ad962be30dcef265da9f194835d70414935440abe5b0485a2b0109"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==2.5.1"
+            "markers": "python_version >= '3.9' and python_version < '4.0'",
+            "version": "==2.5.2"
         },
         "pyparsing": {
             "hashes": [
