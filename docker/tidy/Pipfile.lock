@@ -455,12 +455,12 @@
         },
         "python-daemon": {
             "hashes": [
-                "sha256:a389d342aab7ac4c0e8397510af54ecb0d6919e2fced9bab7dd24f8c22265306",
-                "sha256:b44866efe923c278ac5a052b6b87d4736fc53221b671cd3a7ec7c1f94ed19f47"
+                "sha256:b906833cef63502994ad48e2eab213259ed9bb18d54fa8774dcba2ff7864cec6",
+                "sha256:f7b04335adc473de877f5117e26d5f1142f4c9f7cd765408f0877757be5afbf4"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.1.1"
+            "version": "==3.1.2"
         },
         "pywinrm": {
             "hashes": [
