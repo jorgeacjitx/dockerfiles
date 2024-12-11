@@ -225,12 +225,12 @@
         },
         "parse-emails": {
             "hashes": [
-                "sha256:f044c622785676ce749e4e5c1ade0b263216ec828c659070179e5f203f1756d8",
-                "sha256:f5688590e43a70b8feba664da0ab7e3af29a6e627d9aa9471c088fda9adb556b"
+                "sha256:667250d6e0a381fafaa8bfd81f80eba179e8fde001bfd763d638c9f32d9b27c3",
+                "sha256:bba91c7191271fcaf73e818a0592c7f4a2b7ff01162396a635d4b8ba35c14e12"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7' and python_version < '4.0'",
-            "version": "==0.1.32"
+            "version": "==0.1.33"
         },
         "pcodedmp": {
             "hashes": [
