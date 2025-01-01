@@ -470,12 +470,12 @@
         },
         "demisto-sdk": {
             "hashes": [
-                "sha256:ee7d1af2d572f4172c3bf3ecd24eaf6e83fdd3860951e3213eb8d20453bbfa36",
-                "sha256:ffa9cbe1f3aeec2fa9af749d3a53ed4b766ba520e167b0767aa6b125e08676ac"
+                "sha256:3f1a79c9bb45e0d69a8e90d034e0f172c50da8c6e64b1cae50f55c5086b3dc98",
+                "sha256:527bbc13cecd2672cd8ae22ae19e09c7c5b502fb78e450e0850b81c9052fcdc4"
             ],
             "index": "pypi",
             "markers": "python_version < '3.13' and python_version >= '3.9'",
-            "version": "==1.33.2"
+            "version": "==1.33.3"
         },
         "deprecated": {
             "hashes": [
