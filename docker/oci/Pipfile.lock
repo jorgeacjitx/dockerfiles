@@ -154,11 +154,11 @@
         },
         "oci": {
             "hashes": [
-                "sha256:0cd8c796647bf00a9d978ab12c9dc745a5fb030419d0b98d7ee07fc72b78aba9",
-                "sha256:ea4b0926039a16c53e19fa2f71e807c09e2e78061565f2f38c8991842edf26c9"
+                "sha256:0dd4165a681420c09aeecb65ae6e0540bda4b111fd5afcb04596cf4693278991",
+                "sha256:29cf5aeb898954e6ae3a7381e1b0ed1037a931f31a90e573d61f218cde8590fc"
             ],
             "index": "pypi",
-            "version": "==2.141.1"
+            "version": "==2.143.0"
         },
         "pycparser": {
             "hashes": [
