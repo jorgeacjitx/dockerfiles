@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ac1abdfc9caa7a6a69892e8adef35980988691abc1eb198f9c7b6bd6b8a086a1"
+            "sha256": "3f6a0687cb27e8601b9a4de4302229bad64e8c13374eb6a4556aa309e27c7281"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.11"
+            "python_version": "3.12"
         },
         "sources": [
             {
@@ -18,10 +18,10 @@
     "default": {
         "imutils": {
             "hashes": [
-                "sha256:857af6169d90e4a0a814130b9b107f5d611150ce440107e1c1233521c6fb1e2b"
+                "sha256:03827a9fca8b5c540305c0844a62591cf35a0caec199cb0f2f0a4a0fb15d8f24"
             ],
             "index": "pypi",
-            "version": "==0.5.3"
+            "version": "==0.5.4"
         },
         "numpy": {
             "hashes": [
