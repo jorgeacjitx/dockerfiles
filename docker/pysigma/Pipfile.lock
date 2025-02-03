@@ -18,11 +18,11 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:1275f7a45be9464efc1173084eaa30f866fe2e47d389406136d332ed4967ec56",
-                "sha256:b650d30f370c2b724812bee08008be0c4163b163ddaec3f2546c1caf65f191db"
+                "sha256:3d5da6925056f6f18f119200434a4780a94263f10d1c21d032a6f6b2baa20651",
+                "sha256:ca78db4565a652026a4db2bcdf68f2fb589ea80d0be70e03929ed730746b84fe"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2024.12.14"
+            "version": "==2025.1.31"
         },
         "charset-normalizer": {
             "hashes": [
@@ -175,12 +175,12 @@
         },
         "pysigma-backend-elasticsearch": {
             "hashes": [
-                "sha256:d7256103e718fa993cf3e749972d7ce5d3405b8aead0d96c11487549d8eb6edc",
-                "sha256:f87426131ad5948ced6ab7efa980d5b318e66196bb2932961e04df23479dccb5"
+                "sha256:0985cc3435716ed96355ab66850818a9e29fc8de935be882c630b72caedc0f87",
+                "sha256:e6dff7cdad47a848c1f95d42609334b7b6dec2fbc7f4b263576055ecdf0c2ae6"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4.0'",
-            "version": "==1.0.4"
+            "version": "==1.0.5"
         },
         "pysigma-backend-microsoft365defender": {
             "hashes": [
