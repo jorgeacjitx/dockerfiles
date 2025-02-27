@@ -390,12 +390,12 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:725deaf1e7f7bc34281f34b945a303fabe9d9a50ea144642a6af8ad396c8d067",
-                "sha256:87331f4e7c69ab16da97b13e6d924745908f0732633ca08ad4b01d4081c15ff8"
+                "sha256:290970b5414e4a385173b3bba266e2fa27cb1d8551f53461b17fdbfc7622876a",
+                "sha256:9102068bdcd3bcdd92e0396227c17bdc7dc1681d9785d0e52d183c450879f210"
             ],
             "index": "pypi",
             "markers": "python_version <= '3.13' and python_version >= '3.9'",
-            "version": "==3.2.16"
+            "version": "==3.2.17"
         },
         "demisto-sdk": {
             "editable": true,
