@@ -567,18 +567,19 @@ files = [
 
 [[package]]
 name = "demisto-py"
-version = "3.2.15"
+version = "3.2.18"
 description = "\"A Python library for the Demisto API\""
 optional = false
-python-versions = "<=3.12,>=3.8"
+python-versions = "<=3.13,>=3.9"
 files = [
-    {file = "demisto_py-3.2.15-py3-none-any.whl", hash = "sha256:d5da66308e84d826ab358cad005697a3603a2156ee88d6e29ffa734a919b2bae"},
-    {file = "demisto_py-3.2.15.tar.gz", hash = "sha256:4870a039de470bd4aa6f913c82440ee3b5f2f6014b6297130ea1badbc49077db"},
+    {file = "demisto_py-3.2.18-py3-none-any.whl", hash = "sha256:cd406ba97447d3fe919ff3d6729f9cbc5f4667736a0e2eced27493235ede43c1"},
+    {file = "demisto_py-3.2.18.tar.gz", hash = "sha256:b3fe3096f60f7dd43bebb6c3571a50005c5a5699c8e3c7efceaae28feb7aca58"},
 ]
 
 [package.dependencies]
 certifi = ">=2024.2.2,<2025.0.0"
 python-dateutil = ">=2.7.2,<3.0.0"
+setuptools = ">=75.5.0,<76.0.0"
 six = ">=1.16,<2.0"
 tzlocal = ">=5.2.0,<6.0.0"
 urllib3 = "<2.1.0"
