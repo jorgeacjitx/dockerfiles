@@ -390,12 +390,12 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:290970b5414e4a385173b3bba266e2fa27cb1d8551f53461b17fdbfc7622876a",
-                "sha256:9102068bdcd3bcdd92e0396227c17bdc7dc1681d9785d0e52d183c450879f210"
+                "sha256:b3fe3096f60f7dd43bebb6c3571a50005c5a5699c8e3c7efceaae28feb7aca58",
+                "sha256:cd406ba97447d3fe919ff3d6729f9cbc5f4667736a0e2eced27493235ede43c1"
             ],
             "index": "pypi",
             "markers": "python_version <= '3.13' and python_version >= '3.9'",
-            "version": "==3.2.17"
+            "version": "==3.2.18"
         },
         "demisto-sdk": {
             "editable": true,
@@ -1447,11 +1447,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:4ac1475276d2f1c48684874089fefcd83bd7162ddaafb81fac866ba0db282a87",
-                "sha256:b454a35605876da60632df1a60f736524eb73cc47bbc9f3f1ef1b644de74fd2a"
+                "sha256:4880473a969e5f23f2a2be3646b2dfd84af9028716d398e46192f84bc36900d2",
+                "sha256:558e47c15f1811c1fa7adbd0096669bf76c1d3f433f58324df69f3f5ecac4e8f"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==68.2.2"
+            "markers": "python_version >= '3.9'",
+            "version": "==75.8.2"
         },
         "six": {
             "hashes": [
