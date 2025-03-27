@@ -334,14 +334,14 @@ files = [
 
 [[package]]
 name = "extract-msg"
-version = "0.53.2"
+version = "0.54.0"
 description = "Extracts emails and attachments saved in Microsoft Outlook's .msg files"
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "extract_msg-0.53.2-py3-none-any.whl", hash = "sha256:86466417429c760ade8b5b940b43e6666c9e398c241ec2e2cd20c822462b5dff"},
-    {file = "extract_msg-0.53.2.tar.gz", hash = "sha256:4feea4d025a34b00d8aee4e6fef32e14dbdaec130d632f2df5fcf8b18b0d3cc7"},
+    {file = "extract_msg-0.54.0-py3-none-any.whl", hash = "sha256:5ec1b9645e5c1a6ce05f3f07f221a083ee0bc27c5e8474d64a4032c016ba5495"},
+    {file = "extract_msg-0.54.0.tar.gz", hash = "sha256:b8ed8198e64ccb34ae66fc1c2c422e56f9234c64bbf80afcda7100593920ff2b"},
 ]
 
 [package.dependencies]
@@ -479,19 +479,19 @@ files = [
 
 [[package]]
 name = "pymisp"
-version = "2.5.8.1"
+version = "2.5.9"
 description = "Python API for MISP."
 optional = false
 python-versions = "<4.0,>=3.9.2"
 groups = ["main"]
 files = [
-    {file = "pymisp-2.5.8.1-py3-none-any.whl", hash = "sha256:1f46f111daaa8245015a238bbe651f6854fd571db350952fd3652ee1d66338c7"},
-    {file = "pymisp-2.5.8.1.tar.gz", hash = "sha256:253cc79c903344f722abdf1011f412e27106af7305c1a3183d5c247c25a8f41c"},
+    {file = "pymisp-2.5.9-py3-none-any.whl", hash = "sha256:96690ccd3382d1b44e808d84bb9ac461a60d9ad323a64b2732e10683d355e55f"},
+    {file = "pymisp-2.5.9.tar.gz", hash = "sha256:975b68ad9f38e7322d0994ce327abff359aa400f9e6d62a75be33694e4b06ec1"},
 ]
 
 [package.dependencies]
 deprecated = ">=1.2.18"
-extract_msg = {version = ">=0.53.2", optional = true, markers = "extra == \"email\""}
+extract_msg = {version = ">=0.54.0", optional = true, markers = "extra == \"email\""}
 oletools = {version = ">=0.60.2", optional = true, markers = "extra == \"email\""}
 python-dateutil = ">=2.9.0.post0"
 requests = ">=2.32.3"
@@ -499,7 +499,7 @@ requests = ">=2.32.3"
 [package.extras]
 brotli = ["urllib3 (>=2.3.0)"]
 docs = ["docutils (>=0.21.2) ; python_version >= \"3.11\"", "myst-parser (>=4.0.1) ; python_version >= \"3.11\"", "sphinx (>=8.2.3) ; python_version >= \"3.11\"", "sphinx-autodoc-typehints (>=3.1.0) ; python_version >= \"3.11\""]
-email = ["RTFDE (>=0.1.2) ; python_version <= \"3.9\"", "extract_msg (>=0.53.2)", "oletools (>=0.60.2)"]
+email = ["RTFDE (>=0.1.2) ; python_version <= \"3.9\"", "extract_msg (>=0.54.0)", "oletools (>=0.60.2)"]
 fileobjects = ["lief (>=0.16.4)", "pydeep2 (>=0.5.1)", "python-magic (>=0.4.27)"]
 openioc = ["beautifulsoup4 (>=4.13.3)"]
 pdfexport = ["reportlab (>=4.3.1)"]
