@@ -390,12 +390,12 @@
         },
         "demisto-py": {
             "hashes": [
-                "sha256:b3fe3096f60f7dd43bebb6c3571a50005c5a5699c8e3c7efceaae28feb7aca58",
-                "sha256:cd406ba97447d3fe919ff3d6729f9cbc5f4667736a0e2eced27493235ede43c1"
+                "sha256:017470d4892f73a80dc57405062bff9ea202c7281e585ac0befb00738817fe4e",
+                "sha256:87608d9d89c4c59d7ea13c6bf8dc583e134576d654351065b5654e53f8320144"
             ],
             "index": "pypi",
             "markers": "python_version <= '3.13' and python_version >= '3.9'",
-            "version": "==3.2.18"
+            "version": "==3.2.19"
         },
         "demisto-sdk": {
             "editable": true,
@@ -1205,7 +1205,7 @@
                 "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3",
                 "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==2.9.0.post0"
         },
         "python-dotenv": {
@@ -1447,18 +1447,18 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:4880473a969e5f23f2a2be3646b2dfd84af9028716d398e46192f84bc36900d2",
-                "sha256:558e47c15f1811c1fa7adbd0096669bf76c1d3f433f58324df69f3f5ecac4e8f"
+                "sha256:0a6f876d62f4d978ca1a11ab4daf728d1357731f978543ff18ecdbf9fd071f73",
+                "sha256:b6eca2c3070cdc82f71b4cb4bb2946bc0760a210d11362278cf1ff394e6ea32c"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==75.8.2"
+            "version": "==75.9.1"
         },
         "six": {
             "hashes": [
                 "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
                 "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
             "version": "==1.17.0"
         },
         "slackclient": {
@@ -1578,11 +1578,11 @@
         },
         "tzlocal": {
             "hashes": [
-                "sha256:2fafbfc07e9d8b49ade18f898d6bcd37ae88ce3ad6486842a2e4f03af68323d2",
-                "sha256:3814135a1bb29763c6e4f08fd6e41dbb435c7a60bfbb03270211bcc537187d8c"
+                "sha256:cceffc7edecefea1f595541dbd6e990cb1ea3d19bf01b2809f362a03dd7921fd",
+                "sha256:eb1a66c3ef5847adf7a834f1be0800581b683b5608e74f86ecbcef8ab91bb85d"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==5.3"
+            "version": "==5.3.1"
         },
         "ujson": {
             "hashes": [
