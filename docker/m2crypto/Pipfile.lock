@@ -18,18 +18,17 @@
     "default": {
         "m2crypto": {
             "hashes": [
-                "sha256:27630fa31a7d8042e8ce91b22d1910b964fb1f70baca9b192064e80441e83a5c",
-                "sha256:2bdf2df55205752f906466a8c1adea76d71b3061a262e65fc0ad5a94d7873e96",
-                "sha256:30a52ea8f87064cdd575a220a19709659a052f53b3400b32285853c64c5d8a29",
-                "sha256:66f17471504492fbbadb717cbbf044832aa98d0ff92db724a63bcc32671413f4",
-                "sha256:6cb49d7b67d9e214402820eabebe2ae6e6122f46753153ca31ae2eb2bcf294f4",
-                "sha256:76b4b115e26161ead7a09f6d20eaeaa0f8cb2c1c9bcb1c0045417d48e9dbf645",
-                "sha256:980d271fbaa74fb9d1bba459978bb961efdd8a82d2d81f0431477934c96793d0",
-                "sha256:9d56404b9239343a5acedd7bb06a792511e7fdb7c9e358c0314758cb8aec1bc3",
-                "sha256:ffc10d4d09901514f408dc74f60a4d7df21c44ebc9bf776c947bfdc7359421cf"
+                "sha256:09f4ad3875a813cb090254705d4f25bd4920730b01e4bd71c571ea42e5fdc6e8",
+                "sha256:13c068f7087caeda69245ffdaf5965537b86b02586d00b215604fb5b773b1e4f",
+                "sha256:18305c1c8bb8ffcc1a52af4b350facc1271f98f052b96f7a86b3f51aef7acfad",
+                "sha256:2eceae6a8df327d5014342c6c84fe3e42bebc4ab12bf1bf5a3684e8dcd169372",
+                "sha256:6ad3f13e548254d7be6f4d84733768a8f84c5b49f3acbfc96c29aa23463204fc",
+                "sha256:9029c737bd5d8a7ab4e6eae14db1f6aed257e022160b1a8981d4224bb3b2ff3e",
+                "sha256:ba7e49348dc267a1e57658601470f6f49cd6418ab6e665d3fffbb56fd8eec215",
+                "sha256:d0fc81a8828edbf4308432b3040bf06bb26bad95abb9e7d4690b6118551e76ec"
             ],
             "index": "pypi",
-            "version": "==0.45.0"
+            "version": "==0.45.1"
         }
     },
     "develop": {}
