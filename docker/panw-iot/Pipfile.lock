@@ -399,12 +399,12 @@
         },
         "pysnmp": {
             "hashes": [
-                "sha256:61b17359b5afdd951e0d40565f1412daaecf31c12ca58eb19094cf3af14eec09",
-                "sha256:a8663092a534d98af358587f77ea61339c4ffab2d4bbfe2a0cc6a77c2dbae886"
+                "sha256:28e5c1daa0a59ef4239b4a299f52e48c8fb67476cfb3d96d6c60723914ab141f",
+                "sha256:ac08ee77ab498e4c7abc2926917a1d7a57fea496d6472f06602e741baf82cacb"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.9' and python_version < '4.0'",
-            "version": "==7.1.17"
+            "markers": "python_version >= '3.9'",
+            "version": "==7.1.19"
         },
         "pyspnego": {
             "hashes": [
