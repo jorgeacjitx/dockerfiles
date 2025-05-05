@@ -164,14 +164,14 @@ tests-mypy = ["mypy (>=1.11.1) ; platform_python_implementation == \"CPython\" a
 
 [[package]]
 name = "azure-core"
-version = "1.32.0"
+version = "1.34.0"
 description = "Microsoft Azure Core Library for Python"
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "azure_core-1.32.0-py3-none-any.whl", hash = "sha256:eac191a0efb23bfa83fddf321b27b122b4ec847befa3091fa736a5c32c50d7b4"},
-    {file = "azure_core-1.32.0.tar.gz", hash = "sha256:22b3c35d6b2dae14990f6c1be2912bf23ffe50b220e708a28ab1bb92b1c730e5"},
+    {file = "azure_core-1.34.0-py3-none-any.whl", hash = "sha256:0615d3b756beccdb6624d1c0ae97284f38b78fb59a2a9839bf927c66fbbdddd6"},
+    {file = "azure_core-1.34.0.tar.gz", hash = "sha256:bdb544989f246a0ad1c85d72eeb45f2f835afdcbc5b45e43f0dbde7461c81ece"},
 ]
 
 [package.dependencies]
@@ -181,17 +181,18 @@ typing-extensions = ">=4.6.0"
 
 [package.extras]
 aio = ["aiohttp (>=3.0)"]
+tracing = ["opentelemetry-api (>=1.26,<2.0)"]
 
 [[package]]
 name = "azure-identity"
-version = "1.19.0"
+version = "1.21.0"
 description = "Microsoft Azure Identity Library for Python"
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "azure_identity-1.19.0-py3-none-any.whl", hash = "sha256:e3f6558c181692d7509f09de10cca527c7dce426776454fb97df512a46527e81"},
-    {file = "azure_identity-1.19.0.tar.gz", hash = "sha256:500144dc18197d7019b81501165d4fa92225f03778f17d7ca8a2a180129a9c83"},
+    {file = "azure_identity-1.21.0-py3-none-any.whl", hash = "sha256:258ea6325537352440f71b35c3dffe9d240eae4a5126c1b7ce5efd5766bd9fd9"},
+    {file = "azure_identity-1.21.0.tar.gz", hash = "sha256:ea22ce6e6b0f429bc1b8d9212d5b9f9877bd4c82f1724bfa910760612c07a9a6"},
 ]
 
 [package.dependencies]
@@ -203,23 +204,23 @@ typing-extensions = ">=4.0.0"
 
 [[package]]
 name = "azure-kusto-data"
-version = "4.6.3"
+version = "5.0.3"
 description = "Kusto Data Client"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "azure-kusto-data-4.6.3.tar.gz", hash = "sha256:0a00c62c594decd68b14d69fd394f0008136c6ce512ee375f9c73e7a0c90a34d"},
-    {file = "azure_kusto_data-4.6.3-py2.py3-none-any.whl", hash = "sha256:d6991d9c776bf14d3ad49f9330e250b98976720539d357d42ec60af80bb9e514"},
+    {file = "azure-kusto-data-5.0.3.tar.gz", hash = "sha256:f46c2280ca111f5c2c94211f0940932c4e67a67864113b2a06f6ea36dcf14286"},
+    {file = "azure_kusto_data-5.0.3-py2.py3-none-any.whl", hash = "sha256:a60a9c3f206196f484dd59fe09fbdb4529580367f16594352c4cb7beb2264e6a"},
 ]
 
 [package.dependencies]
-azure-core = ">=1.11.0,<2"
-azure-identity = ">=1.5.0,<2"
+azure-core = ">=1.33.0,<2"
+azure-identity = ">=1.21.0,<2"
 ijson = ">=3.1,<4.0"
 msal = ">=1.9.0,<2"
 python-dateutil = ">=2.8.0"
-requests = ">=2.13.0"
+requests = ">=2.32.3"
 
 [package.extras]
 aio = ["aiohttp (>=3.8.0,<4)", "asgiref (>=3.2.3,<4)"]
