@@ -646,18 +646,18 @@
         },
         "teradatasql": {
             "hashes": [
-                "sha256:147eb08f5e6b65972592dc204987f9acde14a01a69cffbe8287590f85fcc1a12"
+                "sha256:182b72aac3c1fb4b78a90fa1d62c523866edfaa38e1464e14e5dbc18f0aa3c6d"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==20.0.0.26"
+            "version": "==20.0.0.30"
         },
         "teradatasqlalchemy": {
             "hashes": [
-                "sha256:08326c907b80b376960fe6f9747b6c1def832837dd8cfecca29398dd589a527f"
+                "sha256:0b814af8e01026a032d2f34d12f7b4c7d8533f431a34dd11c681322d0937e038"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.4'",
-            "version": "==20.0.0.4"
+            "version": "==20.0.0.5"
         },
         "trino": {
             "extras": [
