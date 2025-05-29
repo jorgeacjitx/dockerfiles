@@ -18,20 +18,20 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:3d5da6925056f6f18f119200434a4780a94263f10d1c21d032a6f6b2baa20651",
-                "sha256:ca78db4565a652026a4db2bcdf68f2fb589ea80d0be70e03929ed730746b84fe"
+                "sha256:0a816057ea3cdefcef70270d2c515e4506bbc954f417fa5ade2021213bb8f0c6",
+                "sha256:30350364dfe371162649852c63336a15c70c6510c2ad5015b21c2345311805f3"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2025.1.31"
+            "version": "==2025.4.26"
         },
         "datadog-api-client": {
             "hashes": [
-                "sha256:29534095d6270bfe3a0a80882f060e65f25b28250fae3437b97bfcd9e9ff027d",
-                "sha256:ec1061ec272dd426e183947d9103a9a98f6823b9882157abec1ba4fcdfea9f05"
+                "sha256:45de8e2e3ced859f6b3d54b2c1caf74c5f26171af0493a04791e9e7552a467e9",
+                "sha256:801dba061684f7ac3d7e1914a866cba2acd5c53a1d617a735e2227a88c535310"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==2.34.0"
+            "version": "==2.35.0"
         },
         "python-dateutil": {
             "hashes": [
