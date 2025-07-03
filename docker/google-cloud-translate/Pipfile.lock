@@ -159,12 +159,12 @@
         },
         "google-cloud-translate": {
             "hashes": [
-                "sha256:6a297cda2ca5ba28a8c9a29087610edfe640896016512760a8ae577b774ac6b2",
-                "sha256:94a91f075d039caad33978fa7fc432a9e71c422ec1678a264cbd265c2fc06dfb"
+                "sha256:760f25e1b979fea6a59dca44ffc8a8dc708693c50ae37a39568ff1284c534be2",
+                "sha256:f7d74592c3be41ce308a2b88eed6b76ff0ebbd9f87ddac4523324a64fce94e61"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.21.0"
+            "version": "==3.21.1"
         },
         "googleapis-common-protos": {
             "extras": [
