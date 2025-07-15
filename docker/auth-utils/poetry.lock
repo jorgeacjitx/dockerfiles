@@ -478,19 +478,19 @@ test-randomorder = ["pytest-randomly"]
 
 [[package]]
 name = "edgegrid-python"
-version = "2.0.1"
+version = "2.0.2"
 description = "{OPEN} client authentication protocol for python-requests"
 optional = false
 python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "edgegrid_python-2.0.1-py3-none-any.whl", hash = "sha256:d5f739823b05f9a55d7cecc33d18909fd50e586e176349c5aa681dbec683541f"},
-    {file = "edgegrid_python-2.0.1.tar.gz", hash = "sha256:8884b9505d04405ad848d7a11d40d146a968204372f6ac75a48c43c7ab057ab9"},
+    {file = "edgegrid-python-2.0.2.tar.gz", hash = "sha256:c1705c2208cf559b590ff985382e6f7ea1e891ee16bc1ca5d3482fd4e6968ef4"},
+    {file = "edgegrid_python-2.0.2-py3-none-any.whl", hash = "sha256:fc6edb0a428820af2c82d2a8782cb3b269d561dcb578e193e90e8909fea1574e"},
 ]
 
 [package.dependencies]
 requests = ">=2.24.0"
-requests_toolbelt = ">=0.9.1"
+requests-toolbelt = ">=0.9.1"
 
 [package.extras]
 dev = ["pylint (>=2.7.0)", "pytest (>=6.1.0)", "pytest-cov (>=2.12.1)"]
