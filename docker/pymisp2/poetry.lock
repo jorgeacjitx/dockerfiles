@@ -479,14 +479,14 @@ files = [
 
 [[package]]
 name = "pymisp"
-version = "2.5.12"
+version = "2.5.17"
 description = "Python API for MISP."
 optional = false
 python-versions = "<4.0,>=3.9.2"
 groups = ["main"]
 files = [
-    {file = "pymisp-2.5.12-py3-none-any.whl", hash = "sha256:728860be812826ca51f9ce08e0db341f582492cfa19f38f7395613c2a8f9439b"},
-    {file = "pymisp-2.5.12.tar.gz", hash = "sha256:75dd505d96e1d67b9bfec7a5e1aea3b967426da348e69bdbaa1e554821e10fd6"},
+    {file = "pymisp-2.5.17-py3-none-any.whl", hash = "sha256:5459fae440f166934e5a05327896ae09bfb8b83eac9a4c9ec4cb41f9d299b322"},
+    {file = "pymisp-2.5.17.tar.gz", hash = "sha256:91f1f75a18076e66c9275065d455b76099a723f4f7b66920b89893f942bbaf56"},
 ]
 
 [package.dependencies]
@@ -494,15 +494,15 @@ deprecated = ">=1.2.18"
 extract_msg = {version = ">=0.54.1", optional = true, markers = "extra == \"email\""}
 oletools = {version = ">=0.60.2", optional = true, markers = "extra == \"email\""}
 python-dateutil = ">=2.9.0.post0"
-requests = ">=2.32.3"
+requests = ">=2.32.4"
 
 [package.extras]
-brotli = ["urllib3 (>=2.4.0)"]
-docs = ["docutils (>=0.21.2) ; python_version >= \"3.11\"", "myst-parser (>=4.0.1) ; python_version >= \"3.11\"", "sphinx (>=8.2.3) ; python_version >= \"3.11\"", "sphinx-autodoc-typehints (>=3.2.0) ; python_version >= \"3.11\""]
+brotli = ["urllib3 (>=2.5.0)"]
+docs = ["docutils (<0.22) ; python_version >= \"3.11\"", "myst-parser (>=4.0.1) ; python_version >= \"3.11\"", "sphinx (>=8.2.3) ; python_version >= \"3.11\"", "sphinx-autodoc-typehints (>=3.2.0) ; python_version >= \"3.11\""]
 email = ["RTFDE (>=0.1.2.1) ; python_version <= \"3.9\"", "extract_msg (>=0.54.1)", "oletools (>=0.60.2)"]
-fileobjects = ["lief (>=0.16.5)", "pydeep2 (>=0.5.1)", "python-magic (>=0.4.27)"]
+fileobjects = ["lief (>=0.16.6)", "pydeep2 (>=0.5.1)", "python-magic (>=0.4.27)"]
 openioc = ["beautifulsoup4 (>=4.13.4)"]
-pdfexport = ["reportlab (>=4.4.0)"]
+pdfexport = ["reportlab (>=4.4.3)"]
 url = ["pyfaup (>=1.2)"]
 virustotal = ["validators (>=0.35.0)"]
 
@@ -549,19 +549,19 @@ files = [
 
 [[package]]
 name = "requests"
-version = "2.32.3"
+version = "2.32.4"
 description = "Python HTTP for Humans."
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
 files = [
-    {file = "requests-2.32.3-py3-none-any.whl", hash = "sha256:70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6"},
-    {file = "requests-2.32.3.tar.gz", hash = "sha256:55365417734eb18255590a9ff9eb97e9e1da868d4ccd6402399eaf68af20a760"},
+    {file = "requests-2.32.4-py3-none-any.whl", hash = "sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c"},
+    {file = "requests-2.32.4.tar.gz", hash = "sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422"},
 ]
 
 [package.dependencies]
 certifi = ">=2017.4.17"
-charset-normalizer = ">=2,<4"
+charset_normalizer = ">=2,<4"
 idna = ">=2.5,<4"
 urllib3 = ">=1.21.1,<3"
 
