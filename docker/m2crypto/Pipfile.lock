@@ -18,11 +18,11 @@
     "default": {
         "m2crypto": {
             "hashes": [
-                "sha256:946dc1ca4193496313b6438e9abfa0aded022358f854304c4536e0c92bfbdda2"
+                "sha256:13c2fa89562f7b8af40cc74b55f490be5e2ab8ccfb739f11c16d3ce6221a61ba"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.6'",
-            "version": "==0.46.1"
+            "version": "==0.46.2"
         }
     },
     "develop": {}
