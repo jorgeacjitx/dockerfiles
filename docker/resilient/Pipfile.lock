@@ -399,12 +399,12 @@
         },
         "resilient": {
             "hashes": [
-                "sha256:3baee53a84400f986cae076188023b19b10b424ea3b3f799815c111c004a4899",
-                "sha256:565d95b9a29f470f6c67e4634abcffddee397448bdcb96c2c93c14c7cb9d38c4"
+                "sha256:359dd328c3b221ac9a9b7632484dbbb2c5d8462fc54faa7648019b4f53ab7c3a",
+                "sha256:ffe6492b6c45b8fea4da60ada6e40a5af1121f6eea6ed522845d3c62854e9e98"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==51.0.7.1.15755"
+            "version": "==51.0.7.1.16191"
         },
         "resilient-app-config-plugins": {
             "hashes": [
