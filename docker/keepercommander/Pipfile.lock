@@ -510,11 +510,11 @@
         },
         "flask-limiter": {
             "hashes": [
-                "sha256:536a8df0bb2033f415a2212e19a3b7ddfea38585ac5a2444e1cfa986a697847c",
-                "sha256:be62b462d5a052d21572d4c932e18a8da58cf9ddc18a34b6f1c21fa2ec35a395"
+                "sha256:3c67c0d334f50ae9f1288b0c2f622cc9ed42018a145f66e59918b9aecb5efcdc",
+                "sha256:7be4a8a3fd226f6bce1e633bdac4af16b0d231b6e186f1a6783aa319eb8730ae"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==4.0.0"
+            "version": "==4.1.0"
         },
         "fonttools": {
             "hashes": [
@@ -681,12 +681,12 @@
         },
         "keepercommander": {
             "hashes": [
-                "sha256:0c53ed637fcae83bd760bf4cdf5186b3d29623adfc11e3dd2e63c67cc8ac2de9",
-                "sha256:1945e6511e1990dc8ac990a908928ed1c3158624459a87b0614e00f5b1f98b7d"
+                "sha256:a6b0388e6fe76c60d7af96c5b16ddf920ad751d2b3264122787e4895d8504b41",
+                "sha256:dfd57d4468dccf4d0b6f726b9431110ec76f99a12e873d66b7a275365d6abd50"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==17.1.17"
+            "version": "==17.1.18"
         },
         "limits": {
             "hashes": [
