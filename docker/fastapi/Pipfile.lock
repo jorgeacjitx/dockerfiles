@@ -50,12 +50,12 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:31116d87ce36b66c3e853f8c0ba7c3e4b57c148abb0e72547e25257526cd2cc5",
-                "sha256:d401701383afcf59bd859ead4fadd9e5aab5f783884d6a3ebe296012fdd53ab2"
+                "sha256:ab33d672d8e1cc6e0b49777eb73c32ccf20761011f5ca16755889ab406fd1de0",
+                "sha256:f54c69f23db14bd3dbcdfaf3fdce0483ca5f499512380c8e379a70cda30aa920"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==0.123.7"
+            "version": "==0.123.9"
         },
         "fastapi-utils": {
             "hashes": [
