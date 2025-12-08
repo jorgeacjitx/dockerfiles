@@ -2077,14 +2077,14 @@ files = [
 
 [[package]]
 name = "pipenv"
-version = "2024.4.1"
+version = "2025.1.1"
 description = "Python Development Workflow for Humans."
 optional = false
-python-versions = ">=3.8"
+python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "pipenv-2024.4.1-py3-none-any.whl", hash = "sha256:ab26ee98a7d83d342c1f562ee0564094ab1de091e5d5cec4eeaa95fb600de998"},
-    {file = "pipenv-2024.4.1.tar.gz", hash = "sha256:e8ea6105c1cdda7d5c19df7bd6439a006751f3d4e017602c791e7b51314adf84"},
+    {file = "pipenv-2025.1.1-py3-none-any.whl", hash = "sha256:f5acaa089282e93faa24a395a7ecba63d20ca1f477f41aed8261563b7e8f32fb"},
+    {file = "pipenv-2025.1.1.tar.gz", hash = "sha256:c309b5fba6535aca22fd66d3dfcf2d3ca1dd0cae12de52cabecbdddfbfe48938"},
 ]
 
 [package.dependencies]
@@ -2095,6 +2095,7 @@ virtualenv = ">=20.24.2"
 
 [package.extras]
 dev = ["beautifulsoup4", "black (==24.3.0)", "flake8 (>=3.3,<4)", "invoke", "parver", "sphinx", "towncrier"]
+safety = ["safety (>=3.0.0)"]
 tests = ["flaky", "mock", "pytest (>=5)", "pytest-timeout", "pytest-xdist"]
 
 [[package]]
@@ -3657,4 +3658,4 @@ pyyaml = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.13"
-content-hash = "a1966457a6f00bc2544416fdff38b1d3d4faab33f2ca867f5a5a7d08c2005607"
+content-hash = "83d9f994ea294206e9ab2b752cef62ac334cdc39dc5945418a41c4059dd52176"
