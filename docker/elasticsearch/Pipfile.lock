@@ -18,11 +18,11 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:e564105f78ded564e3ae7c923924435e1daa7463faeab5bb932bc53ffae63407",
-                "sha256:f6c12493cfb1b06ba2ff328595af9350c65d6644968e5d3a2ffd78699af217a5"
+                "sha256:97de8790030bbd5c2d96b7ec782fc2f7820ef8dba6db909ccf95449f2d062d4b",
+                "sha256:d8ab5478f2ecd78af242878415affce761ca6bc54a22a27e026d7c25357c3316"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2025.8.3"
+            "version": "==2025.11.12"
         },
         "charset-normalizer": {
             "hashes": [
@@ -132,12 +132,12 @@
         },
         "elasticsearch": {
             "hashes": [
-                "sha256:7192cd6eff2d6ab48f2858265dea717d15ab42f04cfdc4f571a811bcfcbc7a3a",
-                "sha256:b511dd4cc26aef1fc02c1b5c1eefe9f16d76127d8f133b0f6900fd052c48d2a4"
+                "sha256:e84dd618a220cac25b962790085045dd27ac72e01c0a5d81bd29a2d47a71f03f",
+                "sha256:fe1db2555811192e8a1be78b01234d0a49d32b185ea7eeeb6f059331dee32838"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==8.19.1"
+            "version": "==8.19.3"
         },
         "elasticsearch-dsl": {
             "hashes": [
