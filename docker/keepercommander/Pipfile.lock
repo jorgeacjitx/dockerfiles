@@ -686,16 +686,16 @@
         },
         "keeper-pam-webrtc-rs": {
             "hashes": [
-                "sha256:0a1e17c5b931128204b1d6bf491e85aec1b69e439a908ed48ab9a1ae0d50eca4",
-                "sha256:1b1049396e7a5c32d4a9e0d5e693953a50f2f6765a84f6a2ab4930c8320a1ef6",
-                "sha256:a988e060f3ae1779b8f22b5a86f3093f72bb4f5b20443fbfb649ba3add6930c8",
-                "sha256:bb4ee901624bbcf258e871d563e00820ff18f06d2991d89d2a5ed94fdcbade71",
-                "sha256:d6d9765a38e57c48590fb2adda80dd54022701ff9c8ff6db7840ad27d8e067ef",
-                "sha256:eb6b505a535919ecea07affb1ded318350b64663e251e7349d7f2d566ad2a3bb",
-                "sha256:fa9c5ee30a01a7aa88daaacc0e1d2875155771a77424ca0d2fdcdddb638a01dd"
+                "sha256:08ba70d29e18633888874156ce125bc96b9387f0efb18b5820715df1577b76ca",
+                "sha256:165ef088a91132b0095adfdc7c66cc860088f121db409096a61737f7322306ef",
+                "sha256:6e07dd2982aedaca5df67bfe33e14b51435cb92dcd139c2cc47663c822c9f342",
+                "sha256:8a5cb41a0a7c7bed8fdd75079e591b466aa0ae82b2acfdaa4aa7681a99b27f94",
+                "sha256:9a93198ffd7e917c69c4b037d3f3fa930fdb4318ececefb818f93e085062c71a",
+                "sha256:e11838623812d0c89fb339a1a826ff3b33d21bdf63e6c885651b5f2e5b4734e6",
+                "sha256:f5b50609da277b9e7047351075b4e27276115023466af0c35e8b3f40177a2434"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.2.4"
+            "version": "==1.2.5"
         },
         "keeper-secrets-manager-core": {
             "hashes": [
@@ -706,12 +706,12 @@
         },
         "keepercommander": {
             "hashes": [
-                "sha256:3ed766da36e27c122b43b80daf027e533b2825de2f46d135bd3a2a0bb9f9ba2c",
-                "sha256:a57a68f4a69c5a2b07b6bd314e37a428f8a6321ca8823daba179b48dea0292da"
+                "sha256:129599f2ba0a1d1dbd6457dd3b3a3c09ad4469071a1608c5383b2f54f4b884d8",
+                "sha256:283b267d0cea6379e34634cda4359778a5e1d9aa2f0a98242f4d3484afb59849"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==17.2.2"
+            "version": "==17.2.3"
         },
         "limits": {
             "hashes": [
