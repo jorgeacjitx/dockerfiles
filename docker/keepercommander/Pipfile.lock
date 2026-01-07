@@ -706,12 +706,12 @@
         },
         "keepercommander": {
             "hashes": [
-                "sha256:129599f2ba0a1d1dbd6457dd3b3a3c09ad4469071a1608c5383b2f54f4b884d8",
-                "sha256:283b267d0cea6379e34634cda4359778a5e1d9aa2f0a98242f4d3484afb59849"
+                "sha256:03b11553f6eddb9fd246062dff52f08600d0009f77aa4068030f5b89b404820c",
+                "sha256:0dd79da6f59fe23c27b96b9815ad4b4493c3e1ea539d1f04372169a480cd0f8f"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==17.2.3"
+            "version": "==17.2.4"
         },
         "limits": {
             "hashes": [
