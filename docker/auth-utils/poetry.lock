@@ -512,14 +512,14 @@ test-randomorder = ["pytest-randomly"]
 
 [[package]]
 name = "edgegrid-python"
-version = "2.0.4"
+version = "2.0.5"
 description = "{OPEN} client authentication protocol for python-requests"
 optional = false
 python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "edgegrid_python-2.0.4-py3-none-any.whl", hash = "sha256:fc751433bfd26ae52fdd716607c34a37c827e05f0ec34e30f9003b76d4516c27"},
-    {file = "edgegrid_python-2.0.4.tar.gz", hash = "sha256:4272cb8ec1ac1919c08895529fda3ad5f9b9884c11963576551632eecfc7e8b9"},
+    {file = "edgegrid_python-2.0.5-py3-none-any.whl", hash = "sha256:61666c59e00fbaa5de5aa5438de881f875c896c0f1543c7935eabc5c1335072c"},
+    {file = "edgegrid_python-2.0.5.tar.gz", hash = "sha256:2c57d902954279d7dde467837f908f0e3ef0192a021ab8e34b766bed5918c6f2"},
 ]
 
 [package.dependencies]
