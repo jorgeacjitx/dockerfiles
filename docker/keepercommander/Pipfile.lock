@@ -177,11 +177,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:9943707519e4add1115f44c2bc244f782c0249876bf51b6599fee1ffbedd685c",
-                "sha256:ac726dd470482006e014ad384921ed6438c457018f4b3d204aea4281258b2120"
+                "sha256:027692e4402ad994f1c42e52a4997a9763c646b73e4096e4d5d6db8af1d6f0fa",
+                "sha256:e887ab5cee78ea814d3472169153c2d12cd43b14bd03329a39a9c6e2e80bfba7"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2026.1.4"
+            "version": "==2026.2.25"
         },
         "cffi": {
             "hashes": [
@@ -681,32 +681,33 @@
         },
         "keeper-pam-webrtc-rs": {
             "hashes": [
-                "sha256:23da2ed79193e06828726ce85f159dad7a89b94c13d7eb48ecb4e66ce7b44a46",
-                "sha256:6a3735b2f007bd9efead6b445734e22d0b1c08cdb45e5b7bd54ba7c67e4faf8d",
-                "sha256:6ff6ca83381d1e37e01a99d901ddc658498be9e66c808b66cbbe5db9a6f2c6b5",
-                "sha256:88ed7fdd667c6c1f1bc2eb66b92edd32b7e963b6b956a1982a87de3eaa39340d",
-                "sha256:a2033340fe4ac12a3c4acc619a0eb42b6cb8c9a464a6c8a11ea28cc6c0bab775",
-                "sha256:bade991bf147f5a020704fa69e8fcd9dba339ef6c1c8394dcfad24a62b31d97e",
-                "sha256:bb69562182c63e7d82e772b6fa07c1d0dafe91852a7ee9bfe633c0d3bac94165"
+                "sha256:1705a3e8e46775ccc0cc10cadacf5893350ddefea49adcd69c81450b7f6a7ea9",
+                "sha256:452a7d91c2d5bfbdf248d58f924340fc93ef42fe5c39269e38c4703e3449c69c",
+                "sha256:79ddee1a16e52182075c7b69d6f0469f3654922b58d1882b38ad4a7b9ac146c4",
+                "sha256:a786984256d9d846c3464b8418340f4b80ea1756b09d7af56f6bba81182ba68b",
+                "sha256:c43c876b3fa61bcf67901f28b4097aed51646994532343025f7d99e9e0d240d0",
+                "sha256:d5644f4158b9d1b9849807d3ca990bb8bd6cc6983769593299284213a0337710",
+                "sha256:e849748420276e9128013389be2aec8df487f4437719b591192a111be92910e9"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.6.2"
+            "version": "==2.1.0"
         },
         "keeper-secrets-manager-core": {
             "hashes": [
-                "sha256:e908e05174a7ec8fe2da5ca1641d32fdc4b10c2e5b102957da52d7084f0ef698"
+                "sha256:802fafa3296ec12e94a46b54ce243ef5fb9eee2e13a15428165908ca1b60be39",
+                "sha256:b9a6e0f078935577d09d0c401bd105d657933a9dc86336a7774a9273ae0c88b7"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==17.1.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==17.2.0"
         },
         "keepercommander": {
             "hashes": [
-                "sha256:0289b2ba15981a188883520969fa666b357e4e29590fe4bddbde8fc6ec5bce07",
-                "sha256:5ef70b1354d14e35b7ce4edc3654263893bc9dff314639898299e2a74590d936"
+                "sha256:52aa30206fbd70df6f973ed2b4cc2c4017f84523816e9c42a76c2692fff6502e",
+                "sha256:ae2f8c5df9bef5f947249406d1611f725ff676cc6c514329342828212e345819"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==17.2.8"
+            "version": "==17.2.9"
         },
         "limits": {
             "hashes": [
