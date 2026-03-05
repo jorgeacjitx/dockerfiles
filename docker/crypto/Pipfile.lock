@@ -316,12 +316,12 @@
         },
         "msal": {
             "hashes": [
-                "sha256:76ab7513dbdac88d76abdc6a50110f082b7ed3ff1080aca938c53fc88bc75b51",
-                "sha256:baf268172d2b736e5d409689424d2f321b4142cab231b4b96594c86762e7e01d"
+                "sha256:70cac18ab80a053bff86219ba64cfe3da1f307c74b009e2da57ef040eb1b5656",
+                "sha256:8f4e82f34b10c19e326ec69f44dc6b30171f2f7098f3720ea8a9f0c11832caa3"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==1.35.0"
+            "version": "==1.35.1"
         },
         "pycparser": {
             "hashes": [
