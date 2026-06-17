@@ -26,20 +26,20 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:354006c512cdb87ef8214a095f2ade961c8145734475cd7a7e6b39260ff5494a",
-                "sha256:77c27ada27cdbf619a3bbc41fa9e991caef818d3a2988cf92ea722e107d90108"
+                "sha256:69c5521ad864f33d4d53b0e18a3927697f4558210693b1cb4dd97da959d1f7b9",
+                "sha256:8165b79c02955affbe4b4e9aa7c560684d0d4d86b4b9de66a37b45eb79fc4b69"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.29"
+            "version": "==1.43.31"
         },
         "botocore": {
             "hashes": [
-                "sha256:5d62f2a03ed279a50207ca2824e009313df15f082b6bb591a095a4f04c7faef3",
-                "sha256:dce39d33b707aa162aa3820975f99d7f8f746d46576169fb42ce4f2b3b56b261"
+                "sha256:4c51c63f39515fc1a2b8e3e2c29e452009c988ba55ad489251658fdd3aedad6e",
+                "sha256:c249625faaa353c5b4004043706a394a4f3bcd3643e242f6b01fff6dc70e988b"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==1.43.29"
+            "version": "==1.43.31"
         },
         "coloredlogs": {
             "hashes": [
@@ -76,11 +76,11 @@
         },
         "s3transfer": {
             "hashes": [
-                "sha256:239c13b09e65ad0346e1be7348b8a202dcad44ac7ea7c6eb858fc881dce739b6",
-                "sha256:3760b8b7ec1315da54048b2d626276732bee4300d054d492d4e1d43e20d4ecbd"
+                "sha256:777cc2415536f1debadb5c2ef7779275d0fc0fe0e042411cdd6caebeb2685262",
+                "sha256:ce436931687addc4c1712d52d40b32f53e88315723f107ffa20ba82b05a0f685"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==0.18.0"
+            "version": "==0.19.0"
         },
         "six": {
             "hashes": [
