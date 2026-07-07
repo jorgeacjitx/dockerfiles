@@ -191,12 +191,12 @@
         },
         "uvicorn": {
             "hashes": [
-                "sha256:8139bce59602f55d497c9ed77af3117b0b5fa033e3e887193fa00a5968c38c57",
-                "sha256:ccb3061887829fd8471cfa6fc65b2594689342ee00792e5d257d34871755b09f"
+                "sha256:4ae72a385630bcc17a0adb8290f26c993865e0b43a2114c2aab96420172c056a",
+                "sha256:b92bf03509b82bcb9d49e7335b4fd364518ad021c2dc18b4e6a2fec8c955a0bb"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==0.50.1"
+            "version": "==0.50.2"
         }
     },
     "develop": {}
