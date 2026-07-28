@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-aiodns = ">1.0"
+aiodns = ">=4.0.4"
 slackclient = ">2.0"
 
 [requires]
