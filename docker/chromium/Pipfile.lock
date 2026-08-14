@@ -26,11 +26,11 @@
         },
         "certifi": {
             "hashes": [
-                "sha256:024c88eeec92ca068db80f02b8b07c9cef7b9fe261d1d535abfd5abd6f6af432",
-                "sha256:2227dcbaafe0d2f59279d1762ddddc37783ed4354594f194ffc31d20f41fc3db"
+                "sha256:62f22742b58a1a33014a2b6b706588a8d7e2a88ae7bd1a6ebe8c992928483775",
+                "sha256:741e2c3b351ddf169a738da9f2c048608ff7f2c5cc02f1ebc6b118bb090d5d55"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2026.6.17"
+            "version": "==2026.7.22"
         },
         "charset-normalizer": {
             "hashes": [
@@ -501,12 +501,12 @@
         },
         "selenium": {
             "hashes": [
-                "sha256:54f7e1a4df5f7508ac8c38ce2ea584db1b27083dd79962b22524219219df5cbe",
-                "sha256:f03e864770a21ab32009961c9d015cb2c6275eba45c926c272e02d90af423aad"
+                "sha256:2eac6b8e7c017f57ecc40820383da8881a6fd7a90ea555c1b0af322f2344b347",
+                "sha256:4f6667c23080646e045fb91d2039687e88f549d667961f6ce85832b17384b68e"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==4.46.0"
+            "version": "==4.47.0"
         },
         "sniffio": {
             "hashes": [
@@ -525,11 +525,11 @@
         },
         "trio": {
             "hashes": [
-                "sha256:3bd5d87f781d9b0192d592aef28691f8951d6c2e41b7e1da4c25cde6c180ae9b",
-                "sha256:a29b92b73f09d4b48ed249acd91073281a7f1063f09caba5dc70465b5c7aa970"
+                "sha256:63b9485408bdfdde544fced107045a8c0086cdc4bd0ef2f797b9e0dd111b964b",
+                "sha256:6c7c9f49917694dcdcd5f67abd168df5599eca480d61f29854d17a61a75c2f05"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==0.33.0"
+            "version": "==0.34.0"
         },
         "trio-websocket": {
             "hashes": [
