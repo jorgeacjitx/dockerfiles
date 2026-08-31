@@ -193,11 +193,11 @@
         },
         "idna": {
             "hashes": [
-                "sha256:7f952cbe720b688055e3f87de14f5c3e5fdaa8bc3928985c4077ca689de849a2",
-                "sha256:ffb385a7e039654cef1ab9ef32c6fafe283c0c0467bba1d9029738ce4a14a848"
+                "sha256:5e0811a4383b21dc5838069f801c4fb62113b7447663d2530d2bd6e77b49bf15",
+                "sha256:815e7be7a7806d54abb586dc943addc79e8b2ee16915059658cbeff4b1b43bf4"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==3.18"
+            "version": "==3.19"
         },
         "numpy": {
             "hashes": [
@@ -501,12 +501,12 @@
         },
         "selenium": {
             "hashes": [
-                "sha256:2eac6b8e7c017f57ecc40820383da8881a6fd7a90ea555c1b0af322f2344b347",
-                "sha256:4f6667c23080646e045fb91d2039687e88f549d667961f6ce85832b17384b68e"
+                "sha256:045c1ec054c94e3be6c10febc509aa513b4c05e9146d1a9cf3de5375ec6ca2a1",
+                "sha256:b2a1d77019db92513e59aa2376710fe3d42b65a4d493dccd0c799c1a0d574d93"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==4.47.0"
+            "version": "==4.48.0"
         },
         "sniffio": {
             "hashes": [
@@ -569,11 +569,11 @@
         },
         "websocket-client": {
             "hashes": [
-                "sha256:9e813624b6eb619999a97dc7958469217c3176312b3a16a4bd1bc7e08a46ec98",
-                "sha256:af248a825037ef591efbf6ed20cc5faa03d3b47b9e5a2230a529eeee1c1fc3ef"
+                "sha256:19a871b81d0022589dd9e8e1b1891e0516d32113837dfb987d7691b6a425a1e2",
+                "sha256:2e0916d2e28ccc82702f2f70aa7a654588e84a5cf2f5914099638b33547f2b7c"
             ],
-            "markers": "python_version >= '3.9'",
-            "version": "==1.9.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==1.9.1"
         },
         "wsproto": {
             "hashes": [
