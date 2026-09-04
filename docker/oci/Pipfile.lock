@@ -730,11 +730,11 @@
         },
         "oci": {
             "hashes": [
-                "sha256:375eec7c8568b0066bd5e6ff48cf406a4a1af34437c29abd7981f1ab78fac9c2",
-                "sha256:93556f08c6270e2e174d59d94fcd49fa794ba3f4d60630af173bc9b6204b085c"
+                "sha256:b3028254c45e149806566b40fe981c32834a45160aad95570b4c2f9be3873578",
+                "sha256:b703be0a94da5a2b10158ced904d2eaa732c72f0a5d4582e476758fa4db1a8ea"
             ],
             "index": "pypi",
-            "version": "==2.185.0"
+            "version": "==2.185.1"
         },
         "propcache": {
             "hashes": [
