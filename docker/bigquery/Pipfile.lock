@@ -386,31 +386,31 @@
                 "grpc"
             ],
             "hashes": [
-                "sha256:4b9e0a80024c269ae173136d5439f4ed284651d6e5e2773ba5c694f481f9c0f4",
-                "sha256:ebee7d1b138b5362beecec260e6e8988ac97346562c7382ccb6f0ad8435c599f"
+                "sha256:1f3d626b7a8022dda8deef200b845057231ddc7cbf0d999026bdf61ba38d7fdf",
+                "sha256:73e89a86baef6680934adeee6fbd0ceaf20c1393ab229b2f9b34efb23b0fdef3"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==2.40.0"
+            "version": "==2.41.0"
         },
         "google-auth": {
             "extras": [
                 "pyopenssl"
             ],
             "hashes": [
-                "sha256:89c3f931683a482ac97e61df7eb9da5e08a91703f3c752b2377d72cfb7d69e6a",
-                "sha256:ce50fc533ac02f489a2b183a0c156672c376ecb2091b1127bc7efba2975fff27"
+                "sha256:34aa0283ef72c99cd410e35db4417211fa3e6aaa5399183227bbe3b82bd15192",
+                "sha256:e78414cd2e22cc02884768707def024ca32da17695f2c0e6194cdbe1316c4cd4"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==2.59.1"
+            "version": "==2.60.0"
         },
         "google-cloud-bigquery": {
             "hashes": [
-                "sha256:5039bd16c7430f0f2929f72779d6c05a48501c3dc0a5f7f2191818f9c2170777",
-                "sha256:6d4a43238aa7207bc9798270b3303a703c5c451c856aae14ed04a6b2e7ce4654"
+                "sha256:c5564a58fc3c99b003cd334a8f302c6224bd34cb55c87476a3c445be1d00538b",
+                "sha256:ee0e73d06a624c26445458e75f04deed894ed50a0c46bdc876f30c50e05ec6c2"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10'",
-            "version": "==3.46.0"
+            "version": "==3.46.1"
         },
         "google-cloud-core": {
             "hashes": [
